@@ -16,14 +16,10 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Instalar Requests
+      - name: Instalar Dependencias
         run: pip install -r requirements.txt
 
       - name: Ejecutar Scraper Bot
         env:
           TOKEN_GITHUB: ${{ secrets.TOKEN_GITHUB }}
         run: python scraper_bot.py
-
-4. Dale al botón verde **"Commit changes"**.
-
-¡Y ya está! Haz clic en la pestaña **"Actions"** arriba, dale a "Run workflow" para forzar el primer inicio y verás cómo tu nuevo `.json` cobra vida al instante para tu nueva web de Pirlo TV.
