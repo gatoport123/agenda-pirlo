@@ -1,34 +1,28 @@
 [
     {
-        "datetime": "2026-06-29T20:30:00Z",
+        "datetime": "2026-06-30T01:00:00Z",
         "flagUrl": "https://cdn.ftvhd.com/uploads/copamundial_69c33e7ee4.png",
         "league": "Copa del Mundo",
-        "homeTeam": "Alemania",
-        "awayTeam": "Paraguay",
+        "homeTeam": "Países Bajos",
+        "awayTeam": "Marruecos",
         "servers": [
-            {
-                "name": "Tigo Sports HD",
-                "channel": "Tigo Sports HD",
-                "url": "https://tvhd2.com/online/canal.php?stream=even1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMQ=="
-            },
-            {
-                "name": "Telemundo HD",
-                "channel": "Telemundo HD",
-                "url": "https://tvhd2.com/online/canal.php?stream=telemundo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8="
-            },
-            {
-                "name": "DSports HD",
-                "channel": "DSports HD",
-                "url": "https://tvhd2.com/online/canal.php?stream=dsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz"
-            },
             {
                 "name": "DSports",
                 "channel": "DSports",
                 "url": "https://tvhd2.com/canal.php?stream=dsports",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM="
+            },
+            {
+                "name": "Tigo Sports",
+                "channel": "Tigo Sports",
+                "url": "https://tvhd2.com/online/canal.php?stream=even1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMQ=="
+            },
+            {
+                "name": "Canal 5 MX",
+                "channel": "Canal 5 MX",
+                "url": "https://tvhd2.com/canal.php?stream=canal5",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWNhbmFsNQ=="
             },
             {
                 "name": "DSports | OP2",
@@ -43,52 +37,22 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXRlbGVtdW5kbw=="
             },
             {
-                "name": "TYC Sports",
-                "channel": "TYC Sports",
-                "url": "https://tvhd2.com/canal.php?stream=tycsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXR5Y3Nwb3J0cw=="
+                "name": "DSports HD",
+                "channel": "DSports HD",
+                "url": "https://tvhd2.com/online/canal.php?stream=dsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz"
             },
             {
-                "name": "TyC Sports | OP2",
-                "channel": "TyC Sports | OP2",
-                "url": "https://tvhd2.com/vivo/canal.php?stream=tycsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPXR5Y3Nwb3J0cw=="
-            },
-            {
-                "name": "TYC Sports HD",
-                "channel": "TYC Sports HD",
-                "url": "https://tvhd2.com/online/canal.php?stream=tycsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10eWNzcG9ydHM="
+                "name": "Telemundo HD",
+                "channel": "Telemundo HD",
+                "url": "https://tvhd2.com/online/canal.php?stream=telemundo",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8="
             },
             {
                 "name": "DSports + I OP2",
                 "channel": "DSports + I OP2",
                 "url": "https://tvhd2.com/vivo/canal.php?stream=dsportsplus",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHNwbHVz"
-            },
-            {
-                "name": "Caracol TV",
-                "channel": "Caracol TV",
-                "url": "https://tvhd2.com/canal.php?stream=caracol",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWNhcmFjb2w="
-            },
-            {
-                "name": "Canal 5 MX",
-                "channel": "Canal 5 MX",
-                "url": "https://tvhd2.com/canal.php?stream=canal5",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWNhbmFsNQ=="
-            },
-            {
-                "name": "Sportv BR",
-                "channel": "Sportv BR",
-                "url": "https://tvtvhd.com/vivo/canal.php?stream=sportv",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg=="
-            },
-            {
-                "name": "Sportv BR HD",
-                "channel": "Sportv BR HD",
-                "url": "https://tvtvhd.com/online/canal.php?stream=sportv",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09c3BvcnR2"
             },
             {
                 "name": "Deportes TV. C",
@@ -98,90 +62,6 @@
             }
         ],
         "id": 1
-    },
-    {
-        "datetime": "2026-06-29T23:00:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/mlb_f5711cc440_dde64767e4.png",
-        "league": "Fútbol",
-        "homeTeam": "MLB – Cleveland Guardians",
-        "awayTeam": "Texas Rangers",
-        "servers": [
-            {
-                "name": "ESPN 2",
-                "channel": "ESPN 2",
-                "url": "https://tvhd2.com/canal.php?stream=espn2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y"
-            },
-            {
-                "name": "ESPN 2 | OP2",
-                "channel": "ESPN 2 | OP2",
-                "url": "https://tvhd2.com/vivo/canal.php?stream=espn2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
-            },
-            {
-                "name": "ESPN 2 HD",
-                "channel": "ESPN 2 HD",
-                "url": "https://tvhd2.com/online/canal.php?stream=espn2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg=="
-            }
-        ],
-        "id": 2
-    },
-    {
-        "datetime": "2026-06-29T23:30:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/chile_86c07a7b38_fad5126fd0.png",
-        "league": "Copa Chile",
-        "homeTeam": "Unión Española",
-        "awayTeam": "Colo-Colo",
-        "servers": [
-            {
-                "name": "TNT Sports Premiun CL",
-                "channel": "TNT Sports Premiun CL",
-                "url": "https://tvhd2.com/canal.php?stream=tntsportschile",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
-            },
-            {
-                "name": "TNT Sports Premiun CL OP2",
-                "channel": "TNT Sports Premiun CL OP2",
-                "url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
-            },
-            {
-                "name": "TNT Sports Premiun CL HD",
-                "channel": "TNT Sports Premiun CL HD",
-                "url": "https://tvhd2.com/online/canal.php?stream=tntsportschile",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
-            }
-        ],
-        "id": 3
-    },
-    {
-        "datetime": "2026-06-30T01:00:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/copamundial_69c33e7ee4.png",
-        "league": "Copa del Mundo",
-        "homeTeam": "Países Bajos",
-        "awayTeam": "Marruecos",
-        "servers": [
-            {
-                "name": "Canal 5 MX",
-                "channel": "Canal 5 MX",
-                "url": "https://tvhd2.com/canal.php?stream=canal5",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWNhbmFsNQ=="
-            },
-            {
-                "name": "Telemundo",
-                "channel": "Telemundo",
-                "url": "https://tvhd2.com/canal.php?stream=telemundo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXRlbGVtdW5kbw=="
-            },
-            {
-                "name": "Telemundo HD",
-                "channel": "Telemundo HD",
-                "url": "https://tvhd2.com/online/canal.php?stream=telemundo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8="
-            }
-        ],
-        "id": 4
     },
     {
         "datetime": "2026-06-30T01:30:00Z",
@@ -209,6 +89,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNQ=="
             }
         ],
-        "id": 5
+        "id": 2
     }
 ]
