@@ -1,49 +1,17 @@
 [
     {
-        "datetime": "2026-07-02T09:30:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/Rugby_f99a2b54da.png",
-        "league": "Fútbol",
-        "homeTeam": "Rugby – World Rugby Uruguay",
-        "awayTeam": "",
-        "servers": [
-            {
-                "name": "ESPN 4",
-                "channel": "ESPN 4",
-                "url": "https://tvhd2.com/online/canal.php?stream=even1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjE="
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-07-02T10:00:00Z",
+        "datetime": "2026-07-02T16:00:00Z",
         "flagUrl": "https://cdn.ftvhd.com/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
         "league": "Fútbol",
-        "homeTeam": "Tenis – Wimbledon – Dia #4 – Segunda Ronda",
+        "homeTeam": "tennis",
         "awayTeam": "",
         "servers": [
-            {
-                "name": "ESPN 3",
-                "channel": "ESPN 3",
-                "url": "https://tvhd2.com/online/canal.php?stream=even3",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM="
-            },
             {
                 "name": "ESPN 2",
                 "channel": "ESPN 2",
                 "url": "https://tvhd2.com/online/canal.php?stream=even1",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjE="
-            }
-        ],
-        "id": 2
-    },
-    {
-        "datetime": "2026-07-02T10:30:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
-        "league": "Fútbol",
-        "homeTeam": "De Minaur Alex",
-        "awayTeam": "Mannarino Adrian",
-        "servers": [
+            },
             {
                 "name": "ESPN 3",
                 "channel": "ESPN 3",
@@ -51,23 +19,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM="
             }
         ],
-        "id": 3
-    },
-    {
-        "datetime": "2026-07-02T11:20:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/Rugby_f99a2b54da.png",
-        "league": "Fútbol",
-        "homeTeam": "Rugby – World Rugby U20 Championship – Argentina",
-        "awayTeam": "Irlanda",
-        "servers": [
-            {
-                "name": "ESPN 4",
-                "channel": "ESPN 4",
-                "url": "https://tvhd2.com/online/canal.php?stream=even1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjE="
-            }
-        ],
-        "id": 4
+        "id": 1
     },
     {
         "datetime": "2026-07-02T19:00:00Z",
@@ -89,6 +41,12 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzYXIucGhw"
             },
             {
+                "name": "FOX ONE HD1",
+                "channel": "FOX ONE HD1",
+                "url": "https://tvhd1.com/canales/foxone.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9mb3hvbmUucGhw"
+            },
+            {
                 "name": "DSports",
                 "channel": "DSports",
                 "url": "https://tvhd2.com/canal.php?stream=dsports",
@@ -105,18 +63,6 @@
                 "channel": "DSports HD",
                 "url": "https://tvhd2.com/online/canal.php?stream=dsports",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz"
-            },
-            {
-                "name": "Sportv BR",
-                "channel": "Sportv BR",
-                "url": "https://tvtvhd.com/vivo/canal.php?stream=sportv",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg=="
-            },
-            {
-                "name": "Sportv BR HD",
-                "channel": "Sportv BR HD",
-                "url": "https://tvtvhd.com/online/canal.php?stream=sportv",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09c3BvcnR2"
             },
             {
                 "name": "Telemundo",
@@ -143,7 +89,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1jYW5hbDU="
             }
         ],
-        "id": 5
+        "id": 2
     },
     {
         "datetime": "2026-07-02T21:30:00Z",
@@ -171,7 +117,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjM="
             }
         ],
-        "id": 6
+        "id": 3
     },
     {
         "datetime": "2026-07-02T22:00:00Z",
@@ -199,7 +145,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
             }
         ],
-        "id": 7
+        "id": 4
     },
     {
         "datetime": "2026-07-02T23:00:00Z",
@@ -269,7 +215,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1hbWVyaWNhdHY="
             }
         ],
-        "id": 8
+        "id": 5
     },
     {
         "datetime": "2026-07-03T00:00:00Z",
@@ -297,7 +243,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNQ=="
             }
         ],
-        "id": 9
+        "id": 6
     },
     {
         "datetime": "2026-07-03T00:30:00Z",
@@ -325,7 +271,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
             }
         ],
-        "id": 10
+        "id": 7
     },
     {
         "datetime": "2026-07-03T03:00:00Z",
@@ -383,6 +329,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWZveHNwb3J0czFfdXNh"
             }
         ],
-        "id": 11
+        "id": 8
     }
 ]
