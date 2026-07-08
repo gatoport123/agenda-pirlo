@@ -1,57 +1,25 @@
 [
     {
-        "datetime": "2026-07-08T11:30:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
-        "league": "Fútbol",
-        "homeTeam": "Ciclismo – Tour de France – Etapa #5",
-        "awayTeam": "",
+        "datetime": "2026-07-08T19:30:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
+        "league": "Partido Amistoso Internacional",
+        "homeTeam": "Lausanne Sport",
+        "awayTeam": "Flamengo",
         "servers": [
             {
-                "name": "ESPN 4",
-                "channel": "ESPN 4",
-                "url": "https://tvhd2.com/online/canal.php?stream=even4",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjQ="
+                "name": "Sportv BR",
+                "channel": "Sportv BR",
+                "url": "https://tvtvhd.com/vivo/canal.php?stream=sportv",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg=="
             },
             {
-                "name": "ESPN 4 | OP2",
-                "channel": "ESPN 4 | OP2",
-                "url": "https://tvhd2.com/vivo/canal.php?stream=espn4",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40"
+                "name": "Sportv BR HD",
+                "channel": "Sportv BR HD",
+                "url": "https://tvtvhd.com/online/canal.php?stream=sportv",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09c3BvcnR2"
             }
         ],
         "id": 1
-    },
-    {
-        "datetime": "2026-07-08T12:00:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
-        "league": "Fútbol",
-        "homeTeam": "Tenis – Wimbledon – Dia #10 – Cuartos de Final",
-        "awayTeam": "",
-        "servers": [
-            {
-                "name": "ESPN 3",
-                "channel": "ESPN 3",
-                "url": "https://tvhd2.com/online/canal.php?stream=even3",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM="
-            }
-        ],
-        "id": 2
-    },
-    {
-        "datetime": "2026-07-08T12:30:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
-        "league": "Fútbol",
-        "homeTeam": "Tenis – Wimbledon – Dia #10 – Cuartos de Final",
-        "awayTeam": "",
-        "servers": [
-            {
-                "name": "ESPN 2",
-                "channel": "ESPN 2",
-                "url": "https://tvhd2.com/online/canal.php?stream=even2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjI="
-            }
-        ],
-        "id": 3
     },
     {
         "datetime": "2026-07-08T20:00:00Z",
@@ -67,7 +35,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
             }
         ],
-        "id": 4
+        "id": 2
     },
     {
         "datetime": "2026-07-08T22:00:00Z",
@@ -89,7 +57,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWV2ZW40"
             }
         ],
-        "id": 5
+        "id": 3
     },
     {
         "datetime": "2026-07-08T22:30:00Z",
@@ -111,7 +79,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
             }
         ],
-        "id": 6
+        "id": 4
     },
     {
         "datetime": "2026-07-08T23:00:00Z",
@@ -133,7 +101,35 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40"
             }
         ],
-        "id": 7
+        "id": 5
+    },
+    {
+        "datetime": "2026-07-08T23:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/chile_86c07a7b38_fad5126fd0.png",
+        "league": "Copa de la Liga",
+        "homeTeam": "Unión La Calera",
+        "awayTeam": "Coquimbo Unido",
+        "servers": [
+            {
+                "name": "TNT Sports Premiun CL",
+                "channel": "TNT Sports Premiun CL",
+                "url": "https://tvhd2.com/canal.php?stream=tntsportschile",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+            },
+            {
+                "name": "TNT Sports Premiun CL OP2",
+                "channel": "TNT Sports Premiun CL OP2",
+                "url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+            },
+            {
+                "name": "TNT Sports Premiun CL HD",
+                "channel": "TNT Sports Premiun CL HD",
+                "url": "https://tvhd2.com/online/canal.php?stream=tntsportschile",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
+            }
+        ],
+        "id": 6
     },
     {
         "datetime": "2026-07-09T00:00:00Z",
@@ -153,6 +149,22 @@
                 "channel": "Futbol Canal | OP2",
                 "url": "https://tvhd2.com/vivo/canal.php?stream=even4",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWV2ZW40"
+            }
+        ],
+        "id": 7
+    },
+    {
+        "datetime": "2026-07-09T00:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
+        "league": "Amistoso Internacional",
+        "homeTeam": "Boca Juniors",
+        "awayTeam": "Athletico-PR",
+        "servers": [
+            {
+                "name": "ESPN 3 MX",
+                "channel": "ESPN 3 MX",
+                "url": "https://tvhd2.com/canal.php?stream=espn3mx",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4zbXg="
             }
         ],
         "id": 8
