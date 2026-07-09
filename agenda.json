@@ -9,6 +9,18 @@
             {
                 "name": "ESPN 3",
                 "channel": "ESPN 3",
+                "url": "https://tvhd2.com/canal.php?stream=espn3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4z"
+            },
+            {
+                "name": "ESPN 3 | OP2",
+                "channel": "ESPN 3 | OP2",
+                "url": "https://tvhd2.com/vivo/canal.php?stream=espn3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4z"
+            },
+            {
+                "name": "ESPN 3 | HD",
+                "channel": "ESPN 3 | HD",
                 "url": "https://tvhd2.com/online/canal.php?stream=even3",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM="
             }
@@ -23,28 +35,46 @@
         "awayTeam": "Marruecos",
         "servers": [
             {
-                "name": "Dsports LatinoAmerica",
-                "channel": "Dsports LatinoAmerica",
-                "url": "https://tvhd1.com/canales/dsportslatam.php",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzbGF0YW0ucGhw"
-            },
-            {
-                "name": "Red Uno HD",
-                "channel": "Red Uno HD",
-                "url": "https://tvhd2.com/online/canal.php?stream=even4",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuNA=="
-            },
-            {
                 "name": "Tigo Sports HD",
                 "channel": "Tigo Sports HD",
                 "url": "https://tvhd2.com/online/canal.php?stream=even1",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMQ=="
             },
             {
+                "name": "Dsports HD1",
+                "channel": "Dsports HD1",
+                "url": "https://tvhd1.com/canales/dsportsar.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzYXIucGhw"
+            },
+            {
+                "name": "Dsports (AR/PE/CO/EC/CL/UY)",
+                "channel": "Dsports (AR/PE/CO/EC/CL/UY)",
+                "url": "https://tvhd1.com/canales/dsportslatam.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzbGF0YW0ucGhw"
+            },
+            {
+                "name": "TUDN Mexico HD1",
+                "channel": "TUDN Mexico HD1",
+                "url": "https://tvhd1.com/canales/tudnmx.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy90dWRubXgucGhw"
+            },
+            {
+                "name": "TV LA 1 España HD1",
+                "channel": "TV LA 1 España HD1",
+                "url": "https://tvhd1.com/canales/tvla1es.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy90dmxhMWVzLnBocA=="
+            },
+            {
                 "name": "DSports Mundo",
                 "channel": "DSports Mundo",
                 "url": "https://tvhd2.com/online/canal.php?stream=even2",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMg=="
+            },
+            {
+                "name": "Canal 5 MX HD1",
+                "channel": "Canal 5 MX HD1",
+                "url": "https://tvhd1.com/canales/canal5.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9jYW5hbDUucGhw"
             },
             {
                 "name": "Telemundo",
@@ -77,12 +107,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM="
             },
             {
-                "name": "Dsports HD1",
-                "channel": "Dsports HD1",
-                "url": "https://tvhd1.com/canales/dsportsar.php",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzYXIucGhw"
-            },
-            {
                 "name": "DSports | HD",
                 "channel": "DSports | HD",
                 "url": "https://tvhd2.com/online/canal.php?stream=dsports",
@@ -111,12 +135,6 @@
                 "channel": "Canal 5 MX",
                 "url": "https://tvhd2.com/online/canal.php?stream=canal5",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1jYW5hbDU="
-            },
-            {
-                "name": "Canal 5 MX HD1",
-                "channel": "Canal 5 MX HD1",
-                "url": "https://tvhd1.com/canales/canal5.php",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9jYW5hbDUucGhw"
             },
             {
                 "name": "Deportes TV. C",
