@@ -13,34 +13,34 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzYXIucGhw"
             },
             {
-                "name": "DSports | HD",
-                "channel": "DSports | HD",
-                "url": "https://tvhd2.com/online/canal.php?stream=dsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz"
+                "name": "TV LA 1 España HD1",
+                "channel": "TV LA 1 España HD1",
+                "url": "https://tvhd1.com/canales/tvla1es.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy90dmxhMWVzLnBocA=="
             },
             {
-                "name": "DSports",
-                "channel": "DSports",
-                "url": "https://tvhd2.com/canal.php?stream=dsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM="
+                "name": "FOX Español HD",
+                "channel": "FOX Español HD",
+                "url": "https://fltvhd.com/online/canal.php?stream=even4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjQ="
             },
             {
-                "name": "DSports | OP2",
-                "channel": "DSports | OP2",
-                "url": "https://tvhd2.com/vivo/canal.php?stream=dsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
-            },
-            {
-                "name": "Telefe",
-                "channel": "Telefe",
-                "url": "https://tvhd2.com/canal.php?stream=telefe",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXRlbGVmZQ=="
+                "name": "Tigo Sports HD",
+                "channel": "Tigo Sports HD",
+                "url": "https://fltvhd.com/online/canal.php?stream=even1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE="
             },
             {
                 "name": "Telefe | HD",
                 "channel": "Telefe | HD",
-                "url": "https://tvhd2.com/online/canal.php?stream=telefe",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlZmU="
+                "url": "https://fltvhd.com/online/canal.php?stream=telefe",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dGVsZWZl"
+            },
+            {
+                "name": "DSports | HD",
+                "channel": "DSports | HD",
+                "url": "https://fltvhd.com/canal.php?stream=dsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz"
             },
             {
                 "name": "Sportv BR",
@@ -125,8 +125,8 @@
             {
                 "name": "Disney+",
                 "channel": "Disney+",
-                "url": "https://tvhd2.com/canal.php?stream=espn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4="
+                "url": "https://tvhd2.com/canal.php?stream=disney1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWRpc25leTE="
             }
         ],
         "id": 3
