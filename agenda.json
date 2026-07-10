@@ -1,27 +1,5 @@
 [
     {
-        "datetime": "2026-07-10T15:00:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/argentina_2bd748026e_628913fc18.png",
-        "league": "Torneo de Reserva",
-        "homeTeam": "River Plate",
-        "awayTeam": "Racing Club",
-        "servers": [
-            {
-                "name": "TNT Sports",
-                "channel": "TNT Sports",
-                "url": "https://tvhd2.com/canal.php?stream=tntsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPXRudHNwb3J0cw=="
-            },
-            {
-                "name": "TNT Sports | OP2",
-                "channel": "TNT Sports | OP2",
-                "url": "https://tvhd2.com/vivo/canal.php?stream=tntsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-07-10T19:00:00Z",
         "flagUrl": "https://cdn.ftvhd.com/uploads/copamundial_69c33e7ee4.png",
         "league": "Copa del Mundo",
@@ -119,7 +97,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8="
             }
         ],
-        "id": 2
+        "id": 1
     },
     {
         "datetime": "2026-07-10T22:00:00Z",
@@ -135,7 +113,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
             }
         ],
-        "id": 3
+        "id": 2
     },
     {
         "datetime": "2026-07-10T22:00:00Z",
@@ -151,7 +129,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4="
             }
         ],
-        "id": 4
+        "id": 3
     },
     {
         "datetime": "2026-07-10T22:30:00Z",
@@ -173,7 +151,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40"
             }
         ],
-        "id": 5
+        "id": 4
     },
     {
         "datetime": "2026-07-10T23:50:00Z",
@@ -195,7 +173,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4z"
             }
         ],
-        "id": 6
+        "id": 5
     },
     {
         "datetime": "2026-07-11T00:15:00Z",
@@ -211,6 +189,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
             }
         ],
-        "id": 7
+        "id": 6
     }
 ]
