@@ -1,115 +1,5 @@
 [
     {
-        "datetime": "2026-07-11T18:30:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
-        "league": "Partido Amistoso Internacional",
-        "homeTeam": "Benfica",
-        "awayTeam": "Flamengo",
-        "servers": [
-            {
-                "name": "Sportv BR",
-                "channel": "Sportv BR",
-                "url": "https://fltvhd.com/canal.php?stream=sportv",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1zcG9ydHY="
-            },
-            {
-                "name": "Premiere BR ",
-                "channel": "Premiere BR ",
-                "url": "https://fltvhd.com/canal.php?stream=premiere1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1wcmVtaWVyZTE="
-            },
-            {
-                "name": "Sportv BR HD",
-                "channel": "Sportv BR HD",
-                "url": "https://fltvhd.com/online/canal.php?stream=sportv",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09c3BvcnR2"
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-07-11T18:30:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/Rugby_f99a2b54da.png",
-        "league": "Fútbol",
-        "homeTeam": "Rugby – Nations Championship – Los Pumas",
-        "awayTeam": "Gales",
-        "servers": [
-            {
-                "name": "ESPN 3",
-                "channel": "ESPN 3",
-                "url": "https://fltvhd.com/online/canal.php?stream=even3",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjM="
-            }
-        ],
-        "id": 2
-    },
-    {
-        "datetime": "2026-07-11T19:00:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/bolivia_png_81cfc9f71f.png",
-        "league": "Primera División",
-        "homeTeam": "Real Oruro",
-        "awayTeam": "Gualberto Villarroel SJ",
-        "servers": [
-            {
-                "name": "Entel TV PLUS+",
-                "channel": "Entel TV PLUS+",
-                "url": "https://fltvhd.com/online/canal.php?stream=even1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE="
-            }
-        ],
-        "id": 3
-    },
-    {
-        "datetime": "2026-07-11T19:00:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/chile_86c07a7b38_fad5126fd0.png",
-        "league": "Copa Chile",
-        "homeTeam": "Magallanes",
-        "awayTeam": "Audax Italiano",
-        "servers": [
-            {
-                "name": "TNT Sports Premiun CL HD",
-                "channel": "TNT Sports Premiun CL HD",
-                "url": "https://fltvhd.com/online/canal.php?stream=tntsportschile",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dG50c3BvcnRzY2hpbGU="
-            },
-            {
-                "name": "TNT Sports Premiun CL",
-                "channel": "TNT Sports Premiun CL",
-                "url": "https://fltvhd.com/canal.php?stream=tntsportschile",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
-            },
-            {
-                "name": "TNT Sports Premiun CL OP2",
-                "channel": "TNT Sports Premiun CL OP2",
-                "url": "https://fltvhd.com/vivo/canal.php?stream=tntsportschile",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
-            }
-        ],
-        "id": 4
-    },
-    {
-        "datetime": "2026-07-11T19:10:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png",
-        "league": "Serie A",
-        "homeTeam": "Mushuc Runa",
-        "awayTeam": "Independiente del Valle",
-        "servers": [
-            {
-                "name": "ECDF HD",
-                "channel": "ECDF HD",
-                "url": "https://fltvhd.com/online/canal.php?stream=ecdf_ligapro",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
-            },
-            {
-                "name": "ECDF LigaPro",
-                "channel": "ECDF LigaPro",
-                "url": "https://fltvhd.com/canal.php?stream=ecdf_ligapro",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
-            }
-        ],
-        "id": 5
-    },
-    {
         "datetime": "2026-07-11T21:00:00Z",
         "flagUrl": "https://cdn.ftvhd.com/uploads/copamundial_69c33e7ee4.png",
         "league": "Copa del Mundo",
@@ -121,6 +11,12 @@
                 "channel": "Dsports HD1",
                 "url": "https://tvhd1.com/canales/dsportsar.php",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzYXIucGhw"
+            },
+            {
+                "name": "DSports | HD",
+                "channel": "DSports | HD",
+                "url": "https://fltvhd.com/online/canal.php?stream=dsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZHNwb3J0cw=="
             },
             {
                 "name": "TUDN Mexico HD1",
@@ -141,28 +37,22 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9jYW5hbDUucGhw"
             },
             {
-                "name": "Fox GUA HD",
-                "channel": "Fox GUA HD",
-                "url": "https://fltvhd.com/online/canal.php?stream=even3",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjM="
-            },
-            {
                 "name": "FOX Español HD",
                 "channel": "FOX Español HD",
                 "url": "https://fltvhd.com/online/canal.php?stream=even4",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjQ="
             },
             {
+                "name": "Fox GUA HD",
+                "channel": "Fox GUA HD",
+                "url": "https://fltvhd.com/online/canal.php?stream=even3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjM="
+            },
+            {
                 "name": "Dsports (AR/PE/CO/EC/CL/UY)",
                 "channel": "Dsports (AR/PE/CO/EC/CL/UY)",
                 "url": "https://tvhd1.com/canales/dsportslatam.php",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzbGF0YW0ucGhw"
-            },
-            {
-                "name": "DSports | HD",
-                "channel": "DSports | HD",
-                "url": "https://fltvhd.com/online/canal.php?stream=dsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZHNwb3J0cw=="
             },
             {
                 "name": "Telemundo | HD",
@@ -195,31 +85,13 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10ZWxlbXVuZG8="
             },
             {
-                "name": "Azteca 7",
-                "channel": "Azteca 7",
-                "url": "https://fltvhd.com/canal.php?stream=azteca7",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1henRlY2E3"
-            },
-            {
-                "name": "Azteca 7 | OP2",
-                "channel": "Azteca 7 | OP2",
-                "url": "https://fltvhd.com/vivo/canal.php?stream=azteca7",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1henRlY2E3"
-            },
-            {
-                "name": "Azteca 7 | HD",
-                "channel": "Azteca 7 | HD",
-                "url": "https://fltvhd.com/online/canal.php?stream=azteca7",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09YXp0ZWNhNw=="
-            },
-            {
                 "name": "Deportes TV. C",
                 "channel": "Deportes TV. C",
                 "url": "https://fltvhd.com/canal.php?stream=goltv",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1nb2x0dg=="
             }
         ],
-        "id": 6
+        "id": 1
     },
     {
         "datetime": "2026-07-11T21:00:00Z",
@@ -235,7 +107,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk0"
             }
         ],
-        "id": 7
+        "id": 2
     },
     {
         "datetime": "2026-07-11T21:00:00Z",
@@ -251,7 +123,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk1"
             }
         ],
-        "id": 8
+        "id": 3
     },
     {
         "datetime": "2026-07-11T21:30:00Z",
@@ -279,7 +151,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dG50c3BvcnRzY2hpbGU="
             }
         ],
-        "id": 9
+        "id": 4
     },
     {
         "datetime": "2026-07-11T22:00:00Z",
@@ -301,7 +173,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw=="
             }
         ],
-        "id": 10
+        "id": 5
     },
     {
         "datetime": "2026-07-11T23:00:00Z",
@@ -317,7 +189,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
             }
         ],
-        "id": 11
+        "id": 6
     },
     {
         "datetime": "2026-07-12T01:00:00Z",
@@ -381,6 +253,12 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10eWNzcG9ydHM="
             },
             {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://fltvhd.com/canal.php?stream=disney1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkx"
+            },
+            {
                 "name": "Caracol TV",
                 "channel": "Caracol TV",
                 "url": "https://fltvhd.com/canal.php?stream=caracol",
@@ -415,8 +293,14 @@
                 "channel": "Telemundo | HD",
                 "url": "https://fltvhd.com/online/canal.php?stream=telemundo",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dGVsZW11bmRv"
+            },
+            {
+                "name": "Deportes TV. C",
+                "channel": "Deportes TV. C",
+                "url": "https://fltvhd.com/canal.php?stream=goltv",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1nb2x0dg=="
             }
         ],
-        "id": 12
+        "id": 7
     }
 ]
