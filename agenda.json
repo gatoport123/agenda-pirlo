@@ -1,37 +1,5 @@
 [
     {
-        "datetime": "2026-07-13T13:00:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/argentina_2bd748026e_628913fc18.png",
-        "league": "Torneo de Reserva",
-        "homeTeam": "T\nEstudiantes Rio Cuarto 2",
-        "awayTeam": "Defensa y Justicia",
-        "servers": [
-            {
-                "name": "ESPN 2",
-                "channel": "ESPN 2",
-                "url": "https://fltvhd.com/online/canal.php?stream=even2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y"
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-07-13T13:50:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/Rugby_f99a2b54da.png",
-        "league": "Fútbol",
-        "homeTeam": "Rugby – World Rugby U20 Championship – Semifinal – Equipos a Confirmar",
-        "awayTeam": "",
-        "servers": [
-            {
-                "name": "ESPN 2",
-                "channel": "ESPN 2",
-                "url": "https://fltvhd.com/online/canal.php?stream=even2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y"
-            }
-        ],
-        "id": 2
-    },
-    {
         "datetime": "2026-07-13T16:20:00Z",
         "flagUrl": "https://cdn.ftvhd.com/uploads/Rugby_f99a2b54da.png",
         "league": "Fútbol",
@@ -45,7 +13,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y"
             }
         ],
-        "id": 3
+        "id": 1
     },
     {
         "datetime": "2026-07-13T18:00:00Z",
@@ -61,7 +29,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkx"
             }
         ],
-        "id": 4
+        "id": 2
     },
     {
         "datetime": "2026-07-13T20:30:00Z",
@@ -77,7 +45,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4z"
             }
         ],
-        "id": 5
+        "id": 3
     },
     {
         "datetime": "2026-07-13T22:00:00Z",
@@ -93,7 +61,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXky"
             }
         ],
-        "id": 6
+        "id": 4
     },
     {
         "datetime": "2026-07-13T22:00:00Z",
@@ -109,7 +77,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkz"
             }
         ],
-        "id": 7
+        "id": 5
     },
     {
         "datetime": "2026-07-13T23:00:00Z",
@@ -125,6 +93,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4z"
             }
         ],
-        "id": 8
+        "id": 6
     }
 ]
