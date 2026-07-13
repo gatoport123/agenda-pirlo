@@ -89,8 +89,8 @@
             {
                 "name": "Disney+",
                 "channel": "Disney+",
-                "url": "https://fltvhd.com/canal.php?stream=espn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu"
+                "url": "https://fltvhd.com/canal.php?stream=disney2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXky"
             }
         ],
         "id": 6
@@ -105,8 +105,8 @@
             {
                 "name": "Disney+",
                 "channel": "Disney+",
-                "url": "https://fltvhd.com/canal.php?stream=espn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu"
+                "url": "https://fltvhd.com/canal.php?stream=disney3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkz"
             }
         ],
         "id": 7
