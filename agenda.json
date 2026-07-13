@@ -1,70 +1,10 @@
 [
     {
-        "datetime": "2026-07-12T21:15:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/bolivia_png_81cfc9f71f.png",
-        "league": "Primera División",
-        "homeTeam": "The Strongest",
-        "awayTeam": "Bolívar",
-        "servers": [
-            {
-                "name": "Entel TV PLUS+",
-                "channel": "Entel TV PLUS+",
-                "url": "https://fltvhd.com/online/canal.php?stream=even1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE="
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-07-12T21:30:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/uruguay_e2b9597af8_6abda609fb.png",
-        "league": "Primera División",
-        "homeTeam": "Racing",
-        "awayTeam": "Peñarol",
-        "servers": [
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://fltvhd.com/canal.php?stream=disney6",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk2"
-            }
-        ],
-        "id": 2
-    },
-    {
-        "datetime": "2026-07-12T21:30:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/chile_86c07a7b38_fad5126fd0.png",
-        "league": "Copa Chile",
-        "homeTeam": "Deportes Concepción",
-        "awayTeam": "Puerto Montt",
-        "servers": [
-            {
-                "name": "TNT Sports Premiun CL",
-                "channel": "TNT Sports Premiun CL",
-                "url": "https://fltvhd.com/canal.php?stream=tntsportschile",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
-            },
-            {
-                "name": "TNT Sports Premiun CL OP2",
-                "channel": "TNT Sports Premiun CL OP2",
-                "url": "https://fltvhd.com/vivo/canal.php?stream=tntsportschile",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
-            },
-            {
-                "name": "TNT Sports Premiun CL HD",
-                "channel": "TNT Sports Premiun CL HD",
-                "url": "https://fltvhd.com/online/canal.php?stream=tntsportschile",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dG50c3BvcnRzY2hpbGU="
-            }
-        ],
-        "id": 3
-    },
-    {
-        "datetime": "2026-07-12T23:00:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png",
-        "league": "Fútbol",
-        "homeTeam": "WNBA – Dallas",
-        "awayTeam": "Chicago",
+        "datetime": "2026-07-13T13:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/argentina_2bd748026e_628913fc18.png",
+        "league": "Torneo de Reserva",
+        "homeTeam": "T\nEstudiantes Rio Cuarto 2",
+        "awayTeam": "Defensa y Justicia",
         "servers": [
             {
                 "name": "ESPN 2",
@@ -73,38 +13,118 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y"
             }
         ],
+        "id": 1
+    },
+    {
+        "datetime": "2026-07-13T13:50:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/Rugby_f99a2b54da.png",
+        "league": "Fútbol",
+        "homeTeam": "Rugby – World Rugby U20 Championship – Semifinal – Equipos a Confirmar",
+        "awayTeam": "",
+        "servers": [
+            {
+                "name": "ESPN 2",
+                "channel": "ESPN 2",
+                "url": "https://fltvhd.com/online/canal.php?stream=even2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y"
+            }
+        ],
+        "id": 2
+    },
+    {
+        "datetime": "2026-07-13T16:20:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/Rugby_f99a2b54da.png",
+        "league": "Fútbol",
+        "homeTeam": "Rugby – World Rugby U20 Championship – Semifinal – Equipos a Confirmar",
+        "awayTeam": "",
+        "servers": [
+            {
+                "name": "ESPN 2",
+                "channel": "ESPN 2",
+                "url": "https://fltvhd.com/online/canal.php?stream=even2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y"
+            }
+        ],
+        "id": 3
+    },
+    {
+        "datetime": "2026-07-13T18:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/uruguay_e2b9597af8_6abda609fb.png",
+        "league": "Segunda División",
+        "homeTeam": "La Luz",
+        "awayTeam": "Tacuarembó",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://fltvhd.com/canal.php?stream=disney1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkx"
+            }
+        ],
         "id": 4
     },
     {
-        "datetime": "2026-07-12T23:10:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png",
-        "league": "Serie A",
-        "homeTeam": "Emelec",
-        "awayTeam": "Barcelona",
+        "datetime": "2026-07-13T20:30:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png",
+        "league": "Fútbol",
+        "homeTeam": "NBA Summer League – Indiana Pacers",
+        "awayTeam": "Toronto Raptors",
         "servers": [
             {
-                "name": "ECDF LigaPro",
-                "channel": "ECDF LigaPro",
-                "url": "https://fltvhd.com/canal.php?stream=ecdf_ligapro",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
+                "name": "ESPN 3",
+                "channel": "ESPN 3",
+                "url": "https://fltvhd.com/online/canal.php?stream=even3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4z"
             }
         ],
         "id": 5
     },
     {
-        "datetime": "2026-07-12T23:30:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/bolivia_png_81cfc9f71f.png",
+        "datetime": "2026-07-13T22:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/uruguay_e2b9597af8_6abda609fb.png",
         "league": "Primera División",
-        "homeTeam": "Real Tomayapo",
-        "awayTeam": "Independiente Petrolero",
+        "homeTeam": "Cerro Largo",
+        "awayTeam": "Defensor Sporting",
         "servers": [
             {
-                "name": "Entel TV PLUS+",
-                "channel": "Entel TV PLUS+",
-                "url": "https://fltvhd.com/online/canal.php?stream=even1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE="
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://fltvhd.com/canal.php?stream=espn",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu"
             }
         ],
         "id": 6
+    },
+    {
+        "datetime": "2026-07-13T22:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/uruguay_e2b9597af8_6abda609fb.png",
+        "league": "Segunda División",
+        "homeTeam": "Paysandu",
+        "awayTeam": "Fénix",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://fltvhd.com/canal.php?stream=espn",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu"
+            }
+        ],
+        "id": 7
+    },
+    {
+        "datetime": "2026-07-13T23:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png",
+        "league": "Fútbol",
+        "homeTeam": "NBA Summer League – Memphis Grizzlies",
+        "awayTeam": "Dallas Mavericks",
+        "servers": [
+            {
+                "name": "ESPN 3",
+                "channel": "ESPN 3",
+                "url": "https://fltvhd.com/online/canal.php?stream=even3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4z"
+            }
+        ],
+        "id": 8
     }
 ]
