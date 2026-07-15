@@ -1,21 +1,5 @@
 [
     {
-        "datetime": "2026-07-15T11:30:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
-        "league": "Fútbol",
-        "homeTeam": "Ciclismo – Tour de France – Etapa #11",
-        "awayTeam": "",
-        "servers": [
-            {
-                "name": "ESPN 2",
-                "channel": "ESPN 2",
-                "url": "https://fltvhd.com/online/canal.php?stream=even2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y"
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-07-15T17:00:00Z",
         "flagUrl": "https://cdn.ftvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png",
         "league": "Serie A",
@@ -29,7 +13,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
             }
         ],
-        "id": 2
+        "id": 1
     },
     {
         "datetime": "2026-07-15T19:00:00Z",
@@ -38,6 +22,18 @@
         "homeTeam": "Inglaterra",
         "awayTeam": "Argentina",
         "servers": [
+            {
+                "name": "Telefe | HD",
+                "channel": "Telefe | HD",
+                "url": "https://fltvhd.com/online/canal.php?stream=telefe",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dGVsZWZl"
+            },
+            {
+                "name": "DSports | HD",
+                "channel": "DSports | HD",
+                "url": "https://fltvhd.com/online/canal.php?stream=dsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZHNwb3J0cw=="
+            },
             {
                 "name": "Dsports HD1",
                 "channel": "Dsports HD1",
@@ -51,16 +47,46 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzbGF0YW0ucGhw"
             },
             {
-                "name": "DSports | HD",
-                "channel": "DSports | HD",
-                "url": "https://fltvhd.com/online/canal.php?stream=dsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZHNwb3J0cw=="
+                "name": "TUDN México | Señal HD",
+                "channel": "TUDN México | Señal HD",
+                "url": "https://tvhd1.com/canales/tudnmx.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy90dWRubXgucGhw"
+            },
+            {
+                "name": "FOX ONE HD1",
+                "channel": "FOX ONE HD1",
+                "url": "https://tvhd1.com/canales/foxone.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9mb3hvbmUucGhw"
+            },
+            {
+                "name": "Canal 5 MX HD1",
+                "channel": "Canal 5 MX HD1",
+                "url": "https://tvhd1.com/canales/canal5.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9jYW5hbDUucGhw"
+            },
+            {
+                "name": "TV LA 1 España HD1",
+                "channel": "TV LA 1 España HD1",
+                "url": "https://tvhd1.com/canales/tvla1es.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy90dmxhMWVzLnBocA=="
+            },
+            {
+                "name": "CTV HD1",
+                "channel": "CTV HD1",
+                "url": "https://tvhd1.com/canales/ctv.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9jdHYucGhw"
             },
             {
                 "name": "DSports | OP2",
                 "channel": "DSports | OP2",
                 "url": "https://fltvhd.com/vivo/canal.php?stream=dsports",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz"
+            },
+            {
+                "name": "TYC Sports | HD",
+                "channel": "TYC Sports | HD",
+                "url": "https://fltvhd.com/online/canal.php?stream=tycsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dHljc3BvcnRz"
             },
             {
                 "name": "TYC Sports",
@@ -73,18 +99,6 @@
                 "channel": "TyC Sports | OP2",
                 "url": "https://fltvhd.com/vivo/canal.php?stream=tycsports",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10eWNzcG9ydHM="
-            },
-            {
-                "name": "TYC Sports | HD",
-                "channel": "TYC Sports | HD",
-                "url": "https://fltvhd.com/online/canal.php?stream=tycsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dHljc3BvcnRz"
-            },
-            {
-                "name": "Telefe",
-                "channel": "Telefe",
-                "url": "https://fltvhd.com/online/canal.php?stream=telefe",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dGVsZWZl"
             },
             {
                 "name": "Sportv BR",
@@ -135,6 +149,12 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1jYW5hbDU="
             },
             {
+                "name": "TeleAmazonas",
+                "channel": "TeleAmazonas",
+                "url": "https://fltvhd.com/canal.php?stream=ecdf_ligapro",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
+            },
+            {
                 "name": "America Television",
                 "channel": "America Television",
                 "url": "https://fltvhd.com/canal.php?stream=americatv",
@@ -165,7 +185,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1nb2x0dg=="
             }
         ],
-        "id": 3
+        "id": 2
     },
     {
         "datetime": "2026-07-15T22:00:00Z",
@@ -181,7 +201,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE="
             }
         ],
-        "id": 4
+        "id": 3
     },
     {
         "datetime": "2026-07-15T22:00:00Z",
@@ -197,7 +217,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4z"
             }
         ],
-        "id": 5
+        "id": 4
     },
     {
         "datetime": "2026-07-15T22:00:00Z",
@@ -213,7 +233,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
             }
         ],
-        "id": 6
+        "id": 5
     },
     {
         "datetime": "2026-07-16T00:00:00Z",
@@ -229,7 +249,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4z"
             }
         ],
-        "id": 7
+        "id": 6
     },
     {
         "datetime": "2026-07-16T00:00:00Z",
@@ -245,7 +265,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE="
             }
         ],
-        "id": 8
+        "id": 7
     },
     {
         "datetime": "2026-07-16T00:00:00Z",
@@ -261,7 +281,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y"
             }
         ],
-        "id": 9
+        "id": 8
     },
     {
         "datetime": "2026-07-16T00:30:00Z",
@@ -277,7 +297,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
             }
         ],
-        "id": 10
+        "id": 9
     },
     {
         "datetime": "2026-07-16T02:30:00Z",
@@ -293,6 +313,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4z"
             }
         ],
-        "id": 11
+        "id": 10
     }
 ]
