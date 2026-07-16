@@ -35,8 +35,8 @@
         "datetime": "2026-07-16T20:30:00Z",
         "flagUrl": "https://cdn.ftvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png",
         "league": "Fútbol",
-        "homeTeam": "NBA Summer League – Equipos a Confirmar",
-        "awayTeam": "",
+        "homeTeam": "NBA Summer League – Houston Rockets",
+        "awayTeam": "Brooklyn Nets",
         "servers": [
             {
                 "name": "ESPN 4",
@@ -99,10 +99,10 @@
         "awayTeam": "Vasco da Gama",
         "servers": [
             {
-                "name": "Premiere BR ",
-                "channel": "Premiere BR ",
-                "url": "https://fltvhd.com/canal.php?stream=premiere1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1wcmVtaWVyZTE="
+                "name": "Premiere 2 BR ",
+                "channel": "Premiere 2 BR ",
+                "url": "https://fltvhd.com/canal.php?stream=premiere2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1wcmVtaWVyZTI="
             }
         ],
         "id": 6
@@ -127,8 +127,8 @@
         "datetime": "2026-07-16T23:00:00Z",
         "flagUrl": "https://cdn.ftvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png",
         "league": "Fútbol",
-        "homeTeam": "NBA Summer League – Equipos a Confirmar",
-        "awayTeam": "",
+        "homeTeam": "NBA Summer League – New York Knicks",
+        "awayTeam": "Golden State Warriors",
         "servers": [
             {
                 "name": "ESPN 4",
@@ -225,8 +225,8 @@
         "datetime": "2026-07-17T01:00:00Z",
         "flagUrl": "https://cdn.ftvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png",
         "league": "Fútbol",
-        "homeTeam": "NBA Summer League – Equipos a Confirmar",
-        "awayTeam": "",
+        "homeTeam": "NBA Summer League – Miami Heat",
+        "awayTeam": "Toronto Raptors",
         "servers": [
             {
                 "name": "ESPN 4",
@@ -236,6 +236,22 @@
             }
         ],
         "id": 13
+    },
+    {
+        "datetime": "2026-07-17T02:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png",
+        "league": "Fútbol",
+        "homeTeam": "NBA Summer League – Denver Nuggets",
+        "awayTeam": "Portland Trail Blazers",
+        "servers": [
+            {
+                "name": "ESPN 3",
+                "channel": "ESPN 3",
+                "url": "https://fltvhd.com/online/canal.php?stream=even7",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW43"
+            }
+        ],
+        "id": 14
     },
     {
         "datetime": "2026-07-17T03:00:00Z",
@@ -263,6 +279,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09dHVkbg=="
             }
         ],
-        "id": 14
+        "id": 15
     }
 ]
