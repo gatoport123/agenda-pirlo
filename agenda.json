@@ -1,21 +1,5 @@
 [
     {
-        "datetime": "2026-07-16T16:30:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/golf_4a8d942645_6c3bec75aa.png",
-        "league": "Fútbol",
-        "homeTeam": "Golf – The Open Championship – Primera Vuelta",
-        "awayTeam": "",
-        "servers": [
-            {
-                "name": "ESPN 2",
-                "channel": "ESPN 2",
-                "url": "https://fltvhd.com/online/canal.php?stream=even6",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW42"
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-07-16T19:00:00Z",
         "flagUrl": "https://cdn.ftvhd.com/uploads/bolivia_png_81cfc9f71f.png",
         "league": "Primera División",
@@ -29,7 +13,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE="
             }
         ],
-        "id": 2
+        "id": 1
     },
     {
         "datetime": "2026-07-16T20:30:00Z",
@@ -41,11 +25,11 @@
             {
                 "name": "ESPN 4",
                 "channel": "ESPN 4",
-                "url": "https://fltvhd.com/online/canal.php?stream=even4",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW40"
+                "url": "https://fltvhd.com/online/canal.php?stream=even8",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW44"
             }
         ],
-        "id": 3
+        "id": 2
     },
     {
         "datetime": "2026-07-16T21:30:00Z",
@@ -61,7 +45,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
             }
         ],
-        "id": 4
+        "id": 3
     },
     {
         "datetime": "2026-07-16T21:45:00Z",
@@ -70,6 +54,12 @@
         "homeTeam": "Racing Club",
         "awayTeam": "Defensa y Justicia",
         "servers": [
+            {
+                "name": "TYC Sports | HD",
+                "channel": "TYC Sports | HD",
+                "url": "https://fltvhd.com/online/canal.php?stream=tycsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dHljc3BvcnRz"
+            },
             {
                 "name": "TYC Sports",
                 "channel": "TYC Sports",
@@ -81,15 +71,9 @@
                 "channel": "TyC Sports | OP2",
                 "url": "https://fltvhd.com/vivo/canal.php?stream=tycsports",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10eWNzcG9ydHM="
-            },
-            {
-                "name": "TYC Sports | HD",
-                "channel": "TYC Sports | HD",
-                "url": "https://fltvhd.com/online/canal.php?stream=tycsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dHljc3BvcnRz"
             }
         ],
-        "id": 5
+        "id": 4
     },
     {
         "datetime": "2026-07-16T22:30:00Z",
@@ -105,7 +89,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1wcmVtaWVyZTI="
             }
         ],
-        "id": 6
+        "id": 5
     },
     {
         "datetime": "2026-07-16T22:30:00Z",
@@ -121,7 +105,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1wcmVtaWVyZTE="
             }
         ],
-        "id": 7
+        "id": 6
     },
     {
         "datetime": "2026-07-16T23:00:00Z",
@@ -133,11 +117,11 @@
             {
                 "name": "ESPN 4",
                 "channel": "ESPN 4",
-                "url": "https://fltvhd.com/online/canal.php?stream=even4",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW40"
+                "url": "https://fltvhd.com/online/canal.php?stream=even8",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW44"
             }
         ],
-        "id": 8
+        "id": 7
     },
     {
         "datetime": "2026-07-16T23:00:00Z",
@@ -147,13 +131,13 @@
         "awayTeam": "New York Mets",
         "servers": [
             {
-                "name": "ESPN 3",
-                "channel": "ESPN 3",
+                "name": "ESPN 3 | HD",
+                "channel": "ESPN 3 | HD",
                 "url": "https://fltvhd.com/online/canal.php?stream=even7",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW43"
             }
         ],
-        "id": 9
+        "id": 8
     },
     {
         "datetime": "2026-07-17T00:00:00Z",
@@ -169,7 +153,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
             }
         ],
-        "id": 10
+        "id": 9
     },
     {
         "datetime": "2026-07-17T00:45:00Z",
@@ -178,6 +162,12 @@
         "homeTeam": "Sarmiento",
         "awayTeam": "Boca Juniors",
         "servers": [
+            {
+                "name": "TYC Sports | HD",
+                "channel": "TYC Sports | HD",
+                "url": "https://fltvhd.com/online/canal.php?stream=tycsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dHljc3BvcnRz"
+            },
             {
                 "name": "TYC Sports",
                 "channel": "TYC Sports",
@@ -189,15 +179,9 @@
                 "channel": "TyC Sports | OP2",
                 "url": "https://fltvhd.com/vivo/canal.php?stream=tycsports",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10eWNzcG9ydHM="
-            },
-            {
-                "name": "TYC Sports | HD",
-                "channel": "TYC Sports | HD",
-                "url": "https://fltvhd.com/online/canal.php?stream=tycsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dHljc3BvcnRz"
             }
         ],
-        "id": 11
+        "id": 10
     },
     {
         "datetime": "2026-07-17T01:00:00Z",
@@ -206,6 +190,12 @@
         "homeTeam": "Necaxa",
         "awayTeam": "Atlante",
         "servers": [
+            {
+                "name": "FOX Deportes | HD",
+                "channel": "FOX Deportes | HD",
+                "url": "https://fltvhd.com/online/canal.php?stream=foxdeportes",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09Zm94ZGVwb3J0ZXM="
+            },
             {
                 "name": "FOX Deportes",
                 "channel": "FOX Deportes",
@@ -219,7 +209,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw=="
             }
         ],
-        "id": 12
+        "id": 11
     },
     {
         "datetime": "2026-07-17T01:00:00Z",
@@ -231,11 +221,11 @@
             {
                 "name": "ESPN 4",
                 "channel": "ESPN 4",
-                "url": "https://fltvhd.com/online/canal.php?stream=even4",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW40"
+                "url": "https://fltvhd.com/online/canal.php?stream=even8",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW44"
             }
         ],
-        "id": 13
+        "id": 12
     },
     {
         "datetime": "2026-07-17T02:00:00Z",
@@ -251,7 +241,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW43"
             }
         ],
-        "id": 14
+        "id": 13
     },
     {
         "datetime": "2026-07-17T03:00:00Z",
@@ -260,6 +250,12 @@
         "homeTeam": "Tijuana",
         "awayTeam": "Tigres UANL",
         "servers": [
+            {
+                "name": "TUDN USA | HD",
+                "channel": "TUDN USA | HD",
+                "url": "https://fltvhd.com/online/canal.php?stream=tudn",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09dHVkbg=="
+            },
             {
                 "name": "TUDN USA",
                 "channel": "TUDN USA",
@@ -279,6 +275,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbGVzLnBocD9zdHJlYW09dHVkbg=="
             }
         ],
-        "id": 15
+        "id": 14
     }
 ]
