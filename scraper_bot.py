@@ -173,7 +173,8 @@ def extraer_partidos():
         partidos_agrupados = {}
         
         # === NORMALIZACIÓN DEL DOMINIO PARA EXTRAER IMÁGENES EXACTAS ===
-        if "pltvhd.com" in url_fuente_exitosa:
+        # CORREGIDO: Ahora busca tanto pltvhd como ftvhd para forzar el CDN correcto
+        if "pltvhd.com" in url_fuente_exitosa or "ftvhd.com" in url_fuente_exitosa:
             url_fuente_base = "https://cdn.ftvhd.com" 
         elif "agenda18.com" in url_fuente_exitosa:
             url_fuente_base = "https://img.agenda18.com"
@@ -290,6 +291,10 @@ def extraer_partidos():
                             
                 if not bandera_magica:
                     bandera_magica = obtener_bandera(liga, encuentro)
+
+                # CORRECCIÓN DEFINITIVA CDN: Si la bandera guardada tiene el dominio ftvhd.com sin cdn, lo forzamos.
+                if bandera_magica and "https://ftvhd.com" in bandera_magica:
+                    bandera_magica = bandera_magica.replace("https://ftvhd.com", "https://cdn.ftvhd.com")
 
                 partidos_agrupados[match_key] = {
                     "datetime": datetime_utc,
