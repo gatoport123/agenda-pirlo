@@ -13,7 +13,7 @@ import os
 # MODO "PRINCIPAL + RESPALDO": El bot intentará extraer de la primera fuente.
 # Si funciona, se detiene ahí. Solo si falla, pasará a las siguientes.
 FUENTES_AGENDA = [
-    "https://futbollibres.net/js/agenda.js",               # FUENTE PRINCIPAL (Pelota Libre)
+    "https://ftvhd.com/diaries.json",               # FUENTE PRINCIPAL (Pelota Libre)
     "https://la20hd.com/eventos/json/agenda123.json", # Respaldo 1
     "https://agenda18.com/agenda.json",              # Respaldo 2 (Fubolazo)
 ]
