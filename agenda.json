@@ -1,7 +1,7 @@
 [
     {
         "datetime": "2026-07-22T18:00:00Z",
-        "flagUrl": "https://ftvhd.com/uploads/argentina_2bd748026e_628913fc18.png",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/argentina_2bd748026e_628913fc18.png",
         "league": "Torneo de Reserva",
         "homeTeam": "Tigre",
         "awayTeam": "Rosario Central",
@@ -17,7 +17,7 @@
     },
     {
         "datetime": "2026-07-22T19:00:00Z",
-        "flagUrl": "https://ftvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png",
         "league": "Serie A",
         "homeTeam": "Macará",
         "awayTeam": "Deportivo Cuenca",
@@ -57,7 +57,7 @@
     },
     {
         "datetime": "2026-07-22T19:30:00Z",
-        "flagUrl": "https://ftvhd.com/uploads/mlb_f5711cc440_dde64767e4.png",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/mlb_f5711cc440_dde64767e4.png",
         "league": "Fútbol",
         "homeTeam": "MLB – Arizona Diamondbacks",
         "awayTeam": "Oakland Athletics",
@@ -85,7 +85,7 @@
     },
     {
         "datetime": "2026-07-22T21:30:00Z",
-        "flagUrl": "https://ftvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png",
         "league": "Serie A",
         "homeTeam": "Independiente del Valle",
         "awayTeam": "Técnico Universitario",
@@ -125,7 +125,7 @@
     },
     {
         "datetime": "2026-07-22T22:00:00Z",
-        "flagUrl": "https://ftvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png",
         "league": "Copa Sudamericana",
         "homeTeam": "Medellín",
         "awayTeam": "Vasco da Gama",
@@ -201,7 +201,7 @@
     },
     {
         "datetime": "2026-07-22T22:30:00Z",
-        "flagUrl": "https://ftvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
         "league": "Brasileirão",
         "homeTeam": "Coritiba",
         "awayTeam": "Palmeiras",
@@ -217,7 +217,7 @@
     },
     {
         "datetime": "2026-07-22T23:30:00Z",
-        "flagUrl": "https://ftvhd.com/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
         "league": "Major League Soccer",
         "homeTeam": "New England",
         "awayTeam": "Toronto FC",
@@ -251,7 +251,7 @@
     },
     {
         "datetime": "2026-07-23T00:00:00Z",
-        "flagUrl": "https://ftvhd.com/uploads/mlb_f5711cc440_dde64767e4.png",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/mlb_f5711cc440_dde64767e4.png",
         "league": "Fútbol",
         "homeTeam": "MLB – Chicago Cubs",
         "awayTeam": "Detroit Tigers",
@@ -267,7 +267,7 @@
     },
     {
         "datetime": "2026-07-23T00:00:00Z",
-        "flagUrl": "https://ftvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png",
         "league": "Serie A",
         "homeTeam": "Manta",
         "awayTeam": "LDU Quito",
@@ -307,7 +307,7 @@
     },
     {
         "datetime": "2026-07-23T00:30:00Z",
-        "flagUrl": "https://ftvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png",
         "league": "Copa Sudamericana",
         "homeTeam": "Lanús",
         "awayTeam": "Cienciano",
@@ -323,7 +323,7 @@
     },
     {
         "datetime": "2026-07-23T00:30:00Z",
-        "flagUrl": "https://ftvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
         "league": "Serie B",
         "homeTeam": "Náutico",
         "awayTeam": "Londrina",
@@ -345,7 +345,7 @@
     },
     {
         "datetime": "2026-07-23T00:30:00Z",
-        "flagUrl": "https://ftvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
         "league": "Brasileirão",
         "homeTeam": "Chapecoense",
         "awayTeam": "Flamengo",
@@ -367,7 +367,7 @@
     },
     {
         "datetime": "2026-07-23T00:30:00Z",
-        "flagUrl": "https://ftvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
         "league": "Brasileirão",
         "homeTeam": "Internacional",
         "awayTeam": "Cruzeiro",
@@ -389,7 +389,7 @@
     },
     {
         "datetime": "2026-07-23T00:30:00Z",
-        "flagUrl": "https://ftvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png",
         "league": "Copa Sudamericana",
         "homeTeam": "Sporting Cristal",
         "awayTeam": "RB Bragantino",
@@ -411,7 +411,7 @@
     },
     {
         "datetime": "2026-07-23T00:30:00Z",
-        "flagUrl": "https://ftvhd.com/uploads/colombia_dcf9cc2637_a1661b26da.png",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/colombia_dcf9cc2637_a1661b26da.png",
         "league": "Copa Colombia",
         "homeTeam": "Junior",
         "awayTeam": "Barranquilla",
@@ -439,7 +439,7 @@
     },
     {
         "datetime": "2026-07-23T00:30:00Z",
-        "flagUrl": "https://ftvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
         "league": "Brasileirão",
         "homeTeam": "São Paulo",
         "awayTeam": "Athletico-PR",
