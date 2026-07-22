@@ -1,45 +1,5 @@
 [
     {
-        "datetime": "2026-07-22T19:00:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png",
-        "league": "Serie A",
-        "homeTeam": "Macará",
-        "awayTeam": "Deportivo Cuenca",
-        "servers": [
-            {
-                "name": "ECDF LigaPRO | HD",
-                "channel": "ECDF LigaPRO | HD",
-                "url": "https://fltvhd.com/online/canal.php?stream=ecdf_ligapro",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZWNkZl9saWdhcHJv"
-            },
-            {
-                "name": "ECDF LigaPro",
-                "channel": "ECDF LigaPro",
-                "url": "https://fltvhd.com/canal.php?stream=ecdf_ligapro",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
-            },
-            {
-                "name": "ECDF LigaPro | OP2",
-                "channel": "ECDF LigaPro | OP2",
-                "url": "https://fltvhd.com/vivo/canal.php?stream=ecdf_ligapro",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
-            },
-            {
-                "name": "ECUAVISA",
-                "channel": "ECUAVISA",
-                "url": "https://fltvhd.com/online/canal.php?stream=ecdf",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZWNkZg=="
-            },
-            {
-                "name": "ECUAVISA | OP2",
-                "channel": "ECUAVISA | OP2",
-                "url": "https://fltvhd.com/vivo/canal.php?stream=ecdf",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lY2Rm"
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-07-22T19:30:00Z",
         "flagUrl": "https://cdn.ftvhd.com/uploads/mlb_f5711cc440_dde64767e4.png",
         "league": "Fútbol",
@@ -65,7 +25,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNQ=="
             }
         ],
-        "id": 2
+        "id": 1
     },
     {
         "datetime": "2026-07-22T21:30:00Z",
@@ -93,7 +53,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
             }
         ],
-        "id": 3
+        "id": 2
     },
     {
         "datetime": "2026-07-22T22:00:00Z",
@@ -143,33 +103,9 @@
                 "channel": "ESPN AR┃OP2",
                 "url": "https://fltvhd.com/vivo/canal.php?stream=espn",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
-            },
-            {
-                "name": "ESPN NL ",
-                "channel": "ESPN NL ",
-                "url": "https://fltvhd.com/canal.php?stream=espn1_nl",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMV9ubA=="
-            },
-            {
-                "name": "ESPN NL | OP2",
-                "channel": "ESPN NL | OP2",
-                "url": "https://fltvhd.com/vivo/canal.php?stream=espn1_nl",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMV9ubA=="
-            },
-            {
-                "name": "BeIN Sports Ñ",
-                "channel": "BeIN Sports Ñ",
-                "url": "https://fltvhd.com/canal.php?stream=beinsportes",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1iZWluc3BvcnRlcw=="
-            },
-            {
-                "name": "Deportes TV. C",
-                "channel": "Deportes TV. C",
-                "url": "https://fltvhd.com/canal.php?stream=goltv",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1nb2x0dg=="
             }
         ],
-        "id": 4
+        "id": 3
     },
     {
         "datetime": "2026-07-22T22:30:00Z",
@@ -185,7 +121,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1hbWF6b25fcHJpbWUx"
             }
         ],
-        "id": 5
+        "id": 4
     },
     {
         "datetime": "2026-07-22T23:30:00Z",
@@ -219,7 +155,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw=="
             }
         ],
-        "id": 6
+        "id": 5
     },
     {
         "datetime": "2026-07-23T00:00:00Z",
@@ -235,7 +171,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWVzcG4z"
             }
         ],
-        "id": 7
+        "id": 6
     },
     {
         "datetime": "2026-07-23T00:00:00Z",
@@ -275,7 +211,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lY2Rm"
             }
         ],
-        "id": 8
+        "id": 7
     },
     {
         "datetime": "2026-07-23T00:30:00Z",
@@ -285,13 +221,31 @@
         "awayTeam": "Cienciano",
         "servers": [
             {
+                "name": "Dsports HD1",
+                "channel": "Dsports HD1",
+                "url": "https://tvhd1.com/canales/dsportsar.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMS5jb20vY2FuYWxlcy9kc3BvcnRzYXIucGhw"
+            },
+            {
+                "name": "DSports | HD",
+                "channel": "DSports | HD",
+                "url": "https://fltvhd.com/online/canal.php?stream=dsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZHNwb3J0cw=="
+            },
+            {
+                "name": "DSports | OP2",
+                "channel": "DSports | OP2",
+                "url": "https://fltvhd.com/vivo/canal.php?stream=dsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz"
+            },
+            {
                 "name": "ESPN 2 | HD",
                 "channel": "ESPN 2 | HD",
                 "url": "https://fltvhd.com/online/canal.php?stream=espn2",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
             }
         ],
-        "id": 9
+        "id": 8
     },
     {
         "datetime": "2026-07-23T00:30:00Z",
@@ -313,7 +267,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1zcG9ydHY="
             }
         ],
-        "id": 10
+        "id": 9
     },
     {
         "datetime": "2026-07-23T00:30:00Z",
@@ -335,7 +289,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1wcmVtaWVyZTE="
             }
         ],
-        "id": 11
+        "id": 10
     },
     {
         "datetime": "2026-07-23T00:30:00Z",
@@ -357,29 +311,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1wcmVtaWVyZTI="
             }
         ],
-        "id": 12
-    },
-    {
-        "datetime": "2026-07-23T00:30:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png",
-        "league": "Copa Sudamericana",
-        "homeTeam": "Sporting Cristal",
-        "awayTeam": "RB Bragantino",
-        "servers": [
-            {
-                "name": "ESPN",
-                "channel": "ESPN",
-                "url": "https://fltvhd.com/canal.php?stream=espn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu"
-            },
-            {
-                "name": "ESPN AR┃OP2",
-                "channel": "ESPN AR┃OP2",
-                "url": "https://fltvhd.com/vivo/canal.php?stream=espn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
-            }
-        ],
-        "id": 13
+        "id": 11
     },
     {
         "datetime": "2026-07-23T00:30:00Z",
@@ -407,7 +339,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHMy"
             }
         ],
-        "id": 14
+        "id": 12
     },
     {
         "datetime": "2026-07-23T00:30:00Z",
@@ -429,6 +361,34 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1wcmVtaWVyZTM="
             }
         ],
-        "id": 15
+        "id": 13
+    },
+    {
+        "datetime": "2026-07-23T00:30:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/image_modified_f8ce531f01_b000a25a9e.png",
+        "league": "Copa Sudamericana",
+        "homeTeam": "Sporting Cristal",
+        "awayTeam": "RB Bragantino",
+        "servers": [
+            {
+                "name": "ESPN",
+                "channel": "ESPN",
+                "url": "https://fltvhd.com/canal.php?stream=espn",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu"
+            },
+            {
+                "name": "ESPN AR┃OP2",
+                "channel": "ESPN AR┃OP2",
+                "url": "https://fltvhd.com/vivo/canal.php?stream=espn",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
+            },
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://fltvhd.com/canal.php?stream=disney2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXky"
+            }
+        ],
+        "id": 14
     }
 ]
