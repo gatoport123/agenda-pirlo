@@ -44,6 +44,34 @@
         "id": 2
     },
     {
+        "datetime": "2026-07-27T20:30:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/colombia_dcf9cc2637_a1661b26da.png",
+        "league": "Primera",
+        "homeTeam": "Envigado",
+        "awayTeam": "Real Cundinamarca",
+        "servers": [
+            {
+                "name": "Win Sports + | HD",
+                "channel": "Win Sports + | HD",
+                "url": "https://fltvhd.com/online/canal.php?stream=winsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09d2luc3BvcnRzMg=="
+            },
+            {
+                "name": "Win Sports +",
+                "channel": "Win Sports +",
+                "url": "https://fltvhd.com/canal.php?stream=winsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT13aW5zcG9ydHMy"
+            },
+            {
+                "name": "Win Sports + | OP2",
+                "channel": "Win Sports + | OP2",
+                "url": "https://fltvhd.com/vivo/canal.php?stream=winsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHMy"
+            }
+        ],
+        "id": 3
+    },
+    {
         "datetime": "2026-07-27T21:30:00Z",
         "flagUrl": "https://cdn.ftvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png",
         "league": "Serie A",
@@ -69,7 +97,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
             }
         ],
-        "id": 3
+        "id": 4
     },
     {
         "datetime": "2026-07-27T22:00:00Z",
@@ -85,7 +113,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkx"
             }
         ],
-        "id": 4
+        "id": 5
     },
     {
         "datetime": "2026-07-27T23:00:00Z",
@@ -113,7 +141,23 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
             }
         ],
-        "id": 5
+        "id": 6
+    },
+    {
+        "datetime": "2026-07-27T23:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/chile_86c07a7b38_fad5126fd0.png",
+        "league": "Primera B",
+        "homeTeam": "Unión Española",
+        "awayTeam": "Recoleta",
+        "servers": [
+            {
+                "name": "TNT Sports Chile",
+                "channel": "TNT Sports Chile",
+                "url": "https://fltvhd.com/online/canal.php?stream=even6",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjY="
+            }
+        ],
+        "id": 7
     },
     {
         "datetime": "2026-07-28T00:00:00Z",
@@ -141,6 +185,34 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
             }
         ],
-        "id": 6
+        "id": 8
+    },
+    {
+        "datetime": "2026-07-28T00:30:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/colombia_dcf9cc2637_a1661b26da.png",
+        "league": "Primera",
+        "homeTeam": "Atlético Cali",
+        "awayTeam": "Ind. Yumbo",
+        "servers": [
+            {
+                "name": "Win Sports + | HD",
+                "channel": "Win Sports + | HD",
+                "url": "https://fltvhd.com/online/canal.php?stream=winsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09d2luc3BvcnRzMg=="
+            },
+            {
+                "name": "Win Sports +",
+                "channel": "Win Sports +",
+                "url": "https://fltvhd.com/canal.php?stream=winsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT13aW5zcG9ydHMy"
+            },
+            {
+                "name": "Win Sports + | OP2",
+                "channel": "Win Sports + | OP2",
+                "url": "https://fltvhd.com/vivo/canal.php?stream=winsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHMy"
+            }
+        ],
+        "id": 9
     }
 ]
