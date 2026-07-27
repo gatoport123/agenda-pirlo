@@ -117,6 +117,28 @@
     },
     {
         "datetime": "2026-07-27T23:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/concacf_320ae9a5d8.png",
+        "league": "Campeonato Sub-20",
+        "homeTeam": "Antigua y Barbuda",
+        "awayTeam": "Guatemala",
+        "servers": [
+            {
+                "name": "Fox Sports 2 USA",
+                "channel": "Fox Sports 2 USA",
+                "url": "https://fltvhd.com/canal.php?stream=foxsports2_usa",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1mb3hzcG9ydHMyX3VzYQ=="
+            },
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://fltvhd.com/canal.php?stream=disney2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXky"
+            }
+        ],
+        "id": 6
+    },
+    {
+        "datetime": "2026-07-27T23:00:00Z",
         "flagUrl": "https://cdn.ftvhd.com/uploads/chile_86c07a7b38_fad5126fd0.png",
         "league": "Primera División",
         "homeTeam": "Unión La Calera",
@@ -139,9 +161,15 @@
                 "channel": "TNT Sports Premiun CL OP2",
                 "url": "https://fltvhd.com/vivo/canal.php?stream=tntsportschile",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
+            },
+            {
+                "name": "MAX",
+                "channel": "MAX",
+                "url": "https://fltvhd.com/canal.php?stream=max1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1tYXgx"
             }
         ],
-        "id": 6
+        "id": 7
     },
     {
         "datetime": "2026-07-27T23:00:00Z",
@@ -157,7 +185,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjY="
             }
         ],
-        "id": 7
+        "id": 8
     },
     {
         "datetime": "2026-07-28T00:00:00Z",
@@ -185,7 +213,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
             }
         ],
-        "id": 8
+        "id": 9
     },
     {
         "datetime": "2026-07-28T00:30:00Z",
@@ -213,6 +241,46 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHMy"
             }
         ],
-        "id": 9
+        "id": 10
+    },
+    {
+        "datetime": "2026-07-28T02:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/concacf_320ae9a5d8.png",
+        "league": "Campeonato Sub-20",
+        "homeTeam": "Costa Rica",
+        "awayTeam": "México",
+        "servers": [
+            {
+                "name": "ESPN MX | HD",
+                "channel": "ESPN MX | HD",
+                "url": "https://fltvhd.com/online/canal.php?stream=espnmx",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbm14"
+            },
+            {
+                "name": "ESPN MX",
+                "channel": "ESPN MX",
+                "url": "https://fltvhd.com/canal.php?stream=espnmx",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BubXg="
+            },
+            {
+                "name": "ESPN MX | OP2",
+                "channel": "ESPN MX | OP2",
+                "url": "https://fltvhd.com/vivo/canal.php?stream=espnmx",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg="
+            },
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://fltvhd.com/canal.php?stream=disney3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkz"
+            },
+            {
+                "name": "Fox Sports 2 USA",
+                "channel": "Fox Sports 2 USA",
+                "url": "https://fltvhd.com/canal.php?stream=foxsports2_usa",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1mb3hzcG9ydHMyX3VzYQ=="
+            }
+        ],
+        "id": 11
     }
 ]
