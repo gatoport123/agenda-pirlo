@@ -1,21 +1,5 @@
 [
     {
-        "datetime": "2026-08-08T19:45:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/portugal_914accbdd5.png",
-        "league": "Primeira Liga",
-        "homeTeam": "Estrela",
-        "awayTeam": "Sporting CP",
-        "servers": [
-            {
-                "name": "FANATIZ7",
-                "channel": "FANATIZ7",
-                "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz7",
-                "iframe": "https://la18hd.su/vivo/canales.php?stream=fanatiz7"
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-08-08T20:00:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/ufc_00fbf49648.png",
         "league": "UFC",
@@ -41,7 +25,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=paramount3"
             }
         ],
-        "id": 2
+        "id": 1
     },
     {
         "datetime": "2026-08-08T20:00:00Z",
@@ -81,7 +65,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=fanatiz8"
             }
         ],
-        "id": 3
+        "id": 2
     },
     {
         "datetime": "2026-08-08T20:15:00Z",
@@ -97,7 +81,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=disney7"
             }
         ],
-        "id": 4
+        "id": 3
     },
     {
         "datetime": "2026-08-08T20:30:00Z",
@@ -119,7 +103,7 @@
                 "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html"
             }
         ],
-        "id": 5
+        "id": 4
     },
     {
         "datetime": "2026-08-08T21:20:00Z",
@@ -153,7 +137,7 @@
                 "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
             }
         ],
-        "id": 6
+        "id": 5
     },
     {
         "datetime": "2026-08-08T21:30:00Z",
@@ -169,7 +153,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=mls1es"
             }
         ],
-        "id": 7
+        "id": 6
     },
     {
         "datetime": "2026-08-08T21:30:00Z",
@@ -185,7 +169,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsportschile"
             }
         ],
-        "id": 8
+        "id": 7
     },
     {
         "datetime": "2026-08-08T21:30:00Z",
@@ -201,7 +185,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=disney13"
             }
         ],
-        "id": 9
+        "id": 8
     },
     {
         "datetime": "2026-08-08T21:30:00Z",
@@ -217,7 +201,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=premiere2"
             }
         ],
-        "id": 10
+        "id": 9
     },
     {
         "datetime": "2026-08-08T22:15:00Z",
@@ -257,7 +241,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=fanatiz1"
             }
         ],
-        "id": 11
+        "id": 10
     },
     {
         "datetime": "2026-08-08T22:30:00Z",
@@ -273,7 +257,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=mls2en"
             }
         ],
-        "id": 12
+        "id": 11
     },
     {
         "datetime": "2026-08-08T23:00:00Z",
@@ -295,7 +279,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=espnmx"
             }
         ],
-        "id": 13
+        "id": 12
     },
     {
         "datetime": "2026-08-08T23:25:00Z",
@@ -323,7 +307,7 @@
                 "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
             }
         ],
-        "id": 14
+        "id": 13
     },
     {
         "datetime": "2026-08-08T23:30:00Z",
@@ -345,7 +329,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=fanatiz3"
             }
         ],
-        "id": 15
+        "id": 14
     },
     {
         "datetime": "2026-08-09T00:00:00Z",
@@ -361,7 +345,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=mls3en"
             }
         ],
-        "id": 16
+        "id": 15
     },
     {
         "datetime": "2026-08-09T00:00:00Z",
@@ -375,9 +359,21 @@
                 "channel": "FANATIZ4",
                 "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz4",
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=fanatiz4"
+            },
+            {
+                "name": "SPORTV",
+                "channel": "SPORTV",
+                "url": "https://la18hd.su/vivo/canal.php?stream=sportv",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=sportv"
+            },
+            {
+                "name": "PREMIERE1",
+                "channel": "PREMIERE1",
+                "url": "https://la18hd.su/vivo/canal.php?stream=premiere1",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=premiere1"
             }
         ],
-        "id": 17
+        "id": 16
     },
     {
         "datetime": "2026-08-09T00:30:00Z",
@@ -405,7 +401,7 @@
                 "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html"
             }
         ],
-        "id": 18
+        "id": 17
     },
     {
         "datetime": "2026-08-09T00:30:00Z",
@@ -433,7 +429,7 @@
                 "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html"
             }
         ],
-        "id": 19
+        "id": 18
     },
     {
         "datetime": "2026-08-09T01:00:00Z",
@@ -455,7 +451,7 @@
                 "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html"
             }
         ],
-        "id": 20
+        "id": 19
     },
     {
         "datetime": "2026-08-09T01:00:00Z",
@@ -489,6 +485,6 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports1_usa"
             }
         ],
-        "id": 21
+        "id": 20
     }
 ]
