@@ -263,6 +263,22 @@
     },
     {
         "datetime": "2026-08-08T18:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/amistosos_bbe2ec4c17.png",
+        "league": "Amistoso",
+        "homeTeam": "Torneo Friuli Venezia Giulia (Barcelona, Udinese, Nottingham Forest)",
+        "awayTeam": "",
+        "servers": [
+            {
+                "name": "DISNEY7",
+                "channel": "DISNEY7",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=disney7"
+            }
+        ],
+        "id": 14
+    },
+    {
+        "datetime": "2026-08-08T18:00:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/peru_ddc4e685cf.png",
         "league": "Liga 1",
         "homeTeam": "UTC Cajamarca",
@@ -281,7 +297,7 @@
                 "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html"
             }
         ],
-        "id": 14
+        "id": 15
     },
     {
         "datetime": "2026-08-08T18:00:00Z",
@@ -297,7 +313,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=disney6"
             }
         ],
-        "id": 15
+        "id": 16
     },
     {
         "datetime": "2026-08-08T18:30:00Z",
@@ -313,6 +329,6 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=clarosports1"
             }
         ],
-        "id": 16
+        "id": 17
     }
 ]
