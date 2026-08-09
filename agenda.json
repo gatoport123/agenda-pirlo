@@ -1,39 +1,5 @@
 [
     {
-        "datetime": "2026-08-09T13:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/amistosos_bbe2ec4c17.png",
-        "league": "Amistoso",
-        "homeTeam": "Arsenal",
-        "awayTeam": "Borussia Dortmund",
-        "servers": [
-            {
-                "name": "ESPN",
-                "channel": "ESPN",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-                "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
-            },
-            {
-                "name": "DISNEY7",
-                "channel": "DISNEY7",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
-                "iframe": "https://la18hd.su/vivo/canales.php?stream=disney7"
-            },
-            {
-                "name": "Opción ()",
-                "channel": "Opción ()",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-                "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html"
-            },
-            {
-                "name": "ESPNMX",
-                "channel": "ESPNMX",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espnmx",
-                "iframe": "https://la18hd.su/vivo/canales.php?stream=espnmx"
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-08-09T13:30:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/amistoso_paises_b9febc0d3c.png",
         "league": "Amistoso",
@@ -53,7 +19,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=foxdeportes"
             }
         ],
-        "id": 2
+        "id": 1
     },
     {
         "datetime": "2026-08-09T14:00:00Z",
@@ -69,7 +35,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=disney8"
             }
         ],
-        "id": 3
+        "id": 2
     },
     {
         "datetime": "2026-08-09T14:00:00Z",
@@ -91,7 +57,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=fanatiz1"
             }
         ],
-        "id": 4
+        "id": 3
     },
     {
         "datetime": "2026-08-09T15:00:00Z",
@@ -113,7 +79,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=paramount1"
             }
         ],
-        "id": 5
+        "id": 4
     },
     {
         "datetime": "2026-08-09T16:30:00Z",
@@ -129,7 +95,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsportschile"
             }
         ],
-        "id": 6
+        "id": 5
     },
     {
         "datetime": "2026-08-09T18:00:00Z",
@@ -175,7 +141,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=foxdeportes"
             }
         ],
-        "id": 7
+        "id": 6
     },
     {
         "datetime": "2026-08-09T18:00:00Z",
@@ -197,7 +163,7 @@
                 "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html"
             }
         ],
-        "id": 8
+        "id": 7
     },
     {
         "datetime": "2026-08-09T18:00:00Z",
@@ -213,7 +179,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=disney11"
             }
         ],
-        "id": 9
+        "id": 8
     },
     {
         "datetime": "2026-08-09T19:00:00Z",
@@ -229,7 +195,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=fanatiz4"
             }
         ],
-        "id": 10
+        "id": 9
     },
     {
         "datetime": "2026-08-09T19:00:00Z",
@@ -257,7 +223,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=winsports"
             }
         ],
-        "id": 11
+        "id": 10
     },
     {
         "datetime": "2026-08-09T19:00:00Z",
@@ -279,7 +245,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=premiere1"
             }
         ],
-        "id": 12
+        "id": 11
     },
     {
         "datetime": "2026-08-09T19:00:00Z",
@@ -295,7 +261,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsportschile"
             }
         ],
-        "id": 13
+        "id": 12
     },
     {
         "datetime": "2026-08-09T19:30:00Z",
@@ -311,7 +277,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=mls1es"
             }
         ],
-        "id": 14
+        "id": 13
     },
     {
         "datetime": "2026-08-09T20:30:00Z",
@@ -333,7 +299,7 @@
                 "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html"
             }
         ],
-        "id": 15
+        "id": 14
     },
     {
         "datetime": "2026-08-09T20:45:00Z",
@@ -367,7 +333,7 @@
                 "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html"
             }
         ],
-        "id": 16
+        "id": 15
     },
     {
         "datetime": "2026-08-09T20:45:00Z",
@@ -395,7 +361,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=fanatiz10"
             }
         ],
-        "id": 17
+        "id": 16
     },
     {
         "datetime": "2026-08-09T21:00:00Z",
@@ -423,7 +389,7 @@
                 "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
             }
         ],
-        "id": 18
+        "id": 17
     },
     {
         "datetime": "2026-08-09T21:30:00Z",
@@ -439,7 +405,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=fanatiz1"
             }
         ],
-        "id": 19
+        "id": 18
     },
     {
         "datetime": "2026-08-09T21:30:00Z",
@@ -455,7 +421,7 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsportschile"
             }
         ],
-        "id": 20
+        "id": 19
     },
     {
         "datetime": "2026-08-09T21:30:00Z",
@@ -471,6 +437,6 @@
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=disney13"
             }
         ],
-        "id": 21
+        "id": 20
     }
 ]
