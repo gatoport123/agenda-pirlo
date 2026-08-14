@@ -136,5 +136,39 @@
             }
         ],
         "id": 6
+    },
+    {
+        "datetime": "2026-08-14T19:15:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/italia_cb19445d70.png",
+        "league": "Copa Italia",
+        "homeTeam": "Fiorentina",
+        "awayTeam": "Benevento",
+        "servers": [
+            {
+                "name": "Opción (Español)",
+                "channel": "Opción (Español)",
+                "url": "https://la16hd.com/dsportsar.php",
+                "iframe": "https://la16hd.com/dsportsar.php"
+            },
+            {
+                "name": "DSPORTS EVENTOS",
+                "channel": "DSPORTS EVENTOS",
+                "url": "https://la18hd.su/vivo/canal.php?stream=dsports_eventos",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports_eventos"
+            },
+            {
+                "name": "VTVPLUS",
+                "channel": "VTVPLUS",
+                "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=vtvplus"
+            },
+            {
+                "name": "DSPORTS",
+                "channel": "DSPORTS",
+                "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports"
+            }
+        ],
+        "id": 7
     }
 ]
