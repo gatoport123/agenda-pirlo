@@ -31,7 +31,7 @@ DOMINIOS_INDEXNOW = [
     {
         "host": "www.pirlotv-oficial.site",
         "key": "845c2da3227a452495137075685726ea", 
-        "keyLocation": "https://www.pirlotv-oficial.site/p/845c2da3227a452495137075685726ea.html"
+        "keyLocation": "https://www.pirlotv-oficial.site/845c2da3227a452495137075685726ea"
     }
 ]
 
