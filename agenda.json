@@ -45,10 +45,10 @@
         "awayTeam": "Atlético Tucumán",
         "servers": [
             {
-                "name": "ESPNPREMIUM",
-                "channel": "ESPNPREMIUM",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
-                "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
+                "name": "ESPN",
+                "channel": "ESPN",
+                "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
             },
             {
                 "name": "DISNEY1",
@@ -59,8 +59,14 @@
             {
                 "name": "Opción ()",
                 "channel": "Opción ()",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
-                "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html"
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
+                "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html"
+            },
+            {
+                "name": "ESPNPREMIUM",
+                "channel": "ESPNPREMIUM",
+                "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
             },
             {
                 "name": "FANATIZ1",
@@ -147,7 +153,7 @@
     },
     {
         "datetime": "2026-08-17T19:00:00Z",
-        "flagUrl": "https://cdn-icons-png.flaticon.com/512/520/520786.png",
+        "flagUrl": "https://img.agenda18.com/uploads/inglaterra_823176495f.png",
         "league": "Championship",
         "homeTeam": "Cardiff City",
         "awayTeam": "Wrexham",
