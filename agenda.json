@@ -383,41 +383,43 @@
     },
     {
         "datetime": "2026-08-23T19:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/espana_a8510f9b5f.png",
-        "league": "LaLiga 2",
-        "homeTeam": "Tenerife",
-        "awayTeam": "Almería",
-        "servers": [
-            {
-                "name": "HYPERMOTION1",
-                "channel": "HYPERMOTION1",
-                "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
-                "iframe": "https://la18hd.su/vivo/canales.php?stream=hypermotion1"
-            }
-        ],
-        "id": 17
-    },
-    {
-        "datetime": "2026-08-23T19:30:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/portugal_914accbdd5.png",
         "league": "Primeira Liga",
         "homeTeam": "Porto",
         "awayTeam": "Arouca",
         "servers": [
             {
-                "name": "DSPORTS2",
-                "channel": "DSPORTS2",
-                "url": "https://la18hd.su/vivo/canal.php?stream=dsports2",
-                "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports2"
+                "name": "Opción (Español)",
+                "channel": "Opción (Español)",
+                "url": "https://la16hd.com/dsportsar.php",
+                "iframe": "https://la16hd.com/dsportsar.php"
+            },
+            {
+                "name": "DSPORTS EVENTOS",
+                "channel": "DSPORTS EVENTOS",
+                "url": "https://la18hd.su/vivo/canal.php?stream=dsports_eventos",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports_eventos"
             },
             {
                 "name": "Opción ()",
                 "channel": "Opción ()",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsports2.html",
-                "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsports2.html"
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
+                "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html"
+            },
+            {
+                "name": "VTVPLUS",
+                "channel": "VTVPLUS",
+                "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=vtvplus"
+            },
+            {
+                "name": "DSPORTS",
+                "channel": "DSPORTS",
+                "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports"
             }
         ],
-        "id": 18
+        "id": 17
     },
     {
         "datetime": "2026-08-23T19:30:00Z",
@@ -427,10 +429,10 @@
         "awayTeam": "Barcelona",
         "servers": [
             {
-                "name": "Opción (Portugues)",
-                "channel": "Opción (Portugues)",
-                "url": "https://la16hd.com/cazetv.php",
-                "iframe": "https://la16hd.com/cazetv.php"
+                "name": "Opción (Ingles)",
+                "channel": "Opción (Ingles)",
+                "url": "https://la16hd.com/tsn3.php",
+                "iframe": "https://la16hd.com/tsn3.php"
             },
             {
                 "name": "ESPN",
@@ -461,6 +463,22 @@
                 "channel": "ESPNPLUS3",
                 "url": "https://la18hd.su/vivo/canal.php?stream=espnplus3",
                 "iframe": "https://la18hd.su/vivo/canales.php?stream=espnplus3"
+            }
+        ],
+        "id": 18
+    },
+    {
+        "datetime": "2026-08-23T19:30:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/espana_a8510f9b5f.png",
+        "league": "LaLiga 2",
+        "homeTeam": "Tenerife",
+        "awayTeam": "Almería",
+        "servers": [
+            {
+                "name": "HYPERMOTION1",
+                "channel": "HYPERMOTION1",
+                "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=hypermotion1"
             }
         ],
         "id": 19
