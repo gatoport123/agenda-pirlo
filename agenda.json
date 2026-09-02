@@ -252,5 +252,43 @@
             }
         ],
         "id": 11
+    },
+    {
+        "datetime": "2026-09-02T22:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/chile_86c07a7b38.png",
+        "league": "Primera División",
+        "homeTeam": "Coquimbo Unido",
+        "awayTeam": "Univ. Concepción",
+        "servers": [
+            {
+                "name": "TNT Sports Premium CL",
+                "channel": "TNT Sports Premium CL",
+                "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+            },
+            {
+                "name": "TNT Sports Premium CL Movil",
+                "channel": "TNT Sports Premium CL Movil",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
+                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
+            }
+        ],
+        "id": 12
+    },
+    {
+        "datetime": "2026-09-02T22:30:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/brasil_25a533e5f7.png",
+        "league": "Brasileirão",
+        "homeTeam": "Flamengo",
+        "awayTeam": "Mirassol",
+        "servers": [
+            {
+                "name": "Premiere BR",
+                "channel": "Premiere BR",
+                "url": "https://la18hd.su/vivo/canal.php?stream=premiere1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+            }
+        ],
+        "id": 13
     }
 ]
