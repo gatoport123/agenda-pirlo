@@ -123,6 +123,22 @@
     },
     {
         "datetime": "2026-09-03T19:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/ecuador_6b5e87e044.png",
+        "league": "Serie A de Ecuador",
+        "homeTeam": "Universidad Católica",
+        "awayTeam": "Aucas",
+        "servers": [
+            {
+                "name": "ECDF LigaPro",
+                "channel": "ECDF LigaPro",
+                "url": "https://la18hd.su/vivo/canal.php?stream=ecdf_ligapro",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+            }
+        ],
+        "id": 6
+    },
+    {
+        "datetime": "2026-09-03T19:00:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/espana_a8510f9b5f.png",
         "league": "LaLiga",
         "homeTeam": "Real Sociedad",
@@ -171,7 +187,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMQ=="
             }
         ],
-        "id": 6
+        "id": 7
     },
     {
         "datetime": "2026-09-03T21:30:00Z",
@@ -187,7 +203,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoy"
             }
         ],
-        "id": 7
+        "id": 8
     },
     {
         "datetime": "2026-09-03T23:00:00Z",
@@ -239,7 +255,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5teC4xLmh0bWw="
             }
         ],
-        "id": 8
+        "id": 9
     },
     {
         "datetime": "2026-09-03T23:00:00Z",
@@ -267,7 +283,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
             }
         ],
-        "id": 9
+        "id": 10
     },
     {
         "datetime": "2026-09-04T01:00:00Z",
@@ -301,6 +317,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo0"
             }
         ],
-        "id": 10
+        "id": 11
     }
 ]
