@@ -1,101 +1,5 @@
 [
     {
-        "datetime": "2026-09-03T00:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/chile_86c07a7b38.png",
-        "league": "Primera División",
-        "homeTeam": "Deportes Limache",
-        "awayTeam": "Ñublense",
-        "servers": [
-            {
-                "name": "TNT Sports Premium CL",
-                "channel": "TNT Sports Premium CL",
-                "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
-            },
-            {
-                "name": "TNT Sports Premium CL Movil",
-                "channel": "TNT Sports Premium CL Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
-                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-09-03T00:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/brasil_25a533e5f7.png",
-        "league": "Copa do Brasil",
-        "homeTeam": "Santos",
-        "awayTeam": "Palmeiras",
-        "servers": [
-            {
-                "name": "Dsports HD",
-                "channel": "Dsports HD",
-                "url": "https://la16hd.com/dsportsar.php",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNhci5waHA="
-            },
-            {
-                "name": "Dsports ARG",
-                "channel": "Dsports ARG",
-                "url": "https://la18hd.su/vivo/canal.php?stream=dsports_eventos",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHNfZXZlbnRvcw=="
-            },
-            {
-                "name": "Dsports",
-                "channel": "Dsports",
-                "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
-            },
-            {
-                "name": "Dsports | OP2",
-                "channel": "Dsports | OP2",
-                "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
-            },
-            {
-                "name": "ESPN4 MX",
-                "channel": "ESPN4 MX",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espn4mx",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40bXg="
-            },
-            {
-                "name": "FOX Deportes",
-                "channel": "FOX Deportes",
-                "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
-            },
-            {
-                "name": "FOX Deportes | Móvil",
-                "channel": "FOX Deportes | Móvil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
-                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2ZveGRlcG9ydGVzdHYuaHRtbA=="
-            },
-            {
-                "name": "Premiere BR",
-                "channel": "Premiere BR",
-                "url": "https://la18hd.su/vivo/canal.php?stream=premiere1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
-            }
-        ],
-        "id": 2
-    },
-    {
-        "datetime": "2026-09-03T00:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/brasil_25a533e5f7.png",
-        "league": "Copa do Brasil",
-        "homeTeam": "Vitória",
-        "awayTeam": "Vasco da Gama",
-        "servers": [
-            {
-                "name": "Amazon Prime",
-                "channel": "Amazon Prime",
-                "url": "https://la18hd.su/vivo/canal.php?stream=amazon_prime1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWFtYXpvbl9wcmltZTE="
-            }
-        ],
-        "id": 3
-    },
-    {
         "datetime": "2026-09-03T01:00:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/colombia_dcf9cc2637.png",
         "league": "Liga BetPlay",
@@ -121,7 +25,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
             }
         ],
-        "id": 4
+        "id": 1
     },
     {
         "datetime": "2026-09-03T01:00:00Z",
@@ -143,7 +47,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M="
             }
         ],
-        "id": 5
+        "id": 2
     },
     {
         "datetime": "2026-09-03T03:00:00Z",
@@ -177,6 +81,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczJlbg=="
             }
         ],
-        "id": 6
+        "id": 3
     }
 ]
