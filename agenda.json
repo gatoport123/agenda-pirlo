@@ -1,55 +1,5 @@
 [
     {
-        "datetime": "2026-09-04T17:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/pavo_980d87b7ad.png",
-        "league": "Super Lig",
-        "homeTeam": "İstanbul Başakşehir",
-        "awayTeam": "Galatasaray",
-        "servers": [
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-09-04T17:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/francia_e9d1a8ab33.png",
-        "league": "Ligue 1",
-        "homeTeam": "Olympique Lyonnais",
-        "awayTeam": "Auxerre",
-        "servers": [
-            {
-                "name": "ESPN4",
-                "channel": "ESPN4",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espn4",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40"
-            },
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
-            },
-            {
-                "name": "ESPN4 Movil",
-                "channel": "ESPN4 Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn4tv.html",
-                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG40dHYuaHRtbA=="
-            },
-            {
-                "name": "beIN Sports Ñ",
-                "channel": "beIN Sports Ñ",
-                "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWJlaW5zcG9ydGVz"
-            }
-        ],
-        "id": 2
-    },
-    {
         "datetime": "2026-09-04T18:00:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/peru_ddc4e685cf.png",
         "league": "Liga 1",
@@ -69,7 +19,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
             }
         ],
-        "id": 3
+        "id": 1
     },
     {
         "datetime": "2026-09-04T18:00:00Z",
@@ -91,7 +41,7 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2ZveGRlcG9ydGVzdHYuaHRtbA=="
             }
         ],
-        "id": 4
+        "id": 2
     },
     {
         "datetime": "2026-09-04T18:30:00Z",
@@ -107,7 +57,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
             }
         ],
-        "id": 5
+        "id": 3
     },
     {
         "datetime": "2026-09-04T18:30:00Z",
@@ -141,7 +91,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZlcnNv"
             }
         ],
-        "id": 6
+        "id": 4
     },
     {
         "datetime": "2026-09-04T18:45:00Z",
@@ -163,7 +113,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40bXg="
             }
         ],
-        "id": 7
+        "id": 5
     },
     {
         "datetime": "2026-09-04T19:00:00Z",
@@ -185,7 +135,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1heDE="
             }
         ],
-        "id": 8
+        "id": 6
     },
     {
         "datetime": "2026-09-04T19:00:00Z",
@@ -195,31 +145,25 @@
         "awayTeam": "Real Madrid",
         "servers": [
             {
+                "name": "CazeTV",
+                "channel": "CazeTV",
+                "url": "https://la18hd.su/cazetv1.html",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3UvY2F6ZXR2MS5odG1s"
+            },
+            {
                 "name": "ESPN",
                 "channel": "ESPN",
                 "url": "https://la18hd.su/vivo/canal.php?stream=espn",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
             },
             {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg="
-            },
-            {
                 "name": "ESPN Movil",
                 "channel": "ESPN Movil",
                 "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA=="
-            },
-            {
-                "name": "ESPN Deportes",
-                "channel": "ESPN Deportes",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
             }
         ],
-        "id": 9
+        "id": 7
     },
     {
         "datetime": "2026-09-04T19:00:00Z",
@@ -235,7 +179,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk="
             }
         ],
-        "id": 10
+        "id": 8
     },
     {
         "datetime": "2026-09-04T19:00:00Z",
@@ -275,7 +219,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoz"
             }
         ],
-        "id": 11
+        "id": 9
     },
     {
         "datetime": "2026-09-04T19:15:00Z",
@@ -315,7 +259,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
             }
         ],
-        "id": 12
+        "id": 10
     },
     {
         "datetime": "2026-09-04T19:45:00Z",
@@ -343,7 +287,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo1"
             }
         ],
-        "id": 13
+        "id": 11
     },
     {
         "datetime": "2026-09-04T20:15:00Z",
@@ -365,7 +309,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
             }
         ],
-        "id": 14
+        "id": 12
     },
     {
         "datetime": "2026-09-04T22:00:00Z",
@@ -393,7 +337,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo3"
             }
         ],
-        "id": 15
+        "id": 13
     },
     {
         "datetime": "2026-09-04T22:00:00Z",
@@ -421,7 +365,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5wcmVtaXVtMi5odG1s"
             }
         ],
-        "id": 16
+        "id": 14
     },
     {
         "datetime": "2026-09-04T22:00:00Z",
@@ -437,6 +381,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx"
             }
         ],
-        "id": 17
+        "id": 15
     }
 ]
