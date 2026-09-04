@@ -1,21 +1,5 @@
 [
     {
-        "datetime": "2026-09-03T21:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/paraguay_fc9dd78de7.png",
-        "league": "Copa de Primera",
-        "homeTeam": "Deportivo Recoleta",
-        "awayTeam": "Cerro Porteño",
-        "servers": [
-            {
-                "name": "Fanatiz02",
-                "channel": "Fanatiz02",
-                "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoy"
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-09-03T23:00:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/brasil_25a533e5f7.png",
         "league": "Copa do Brasil",
@@ -65,7 +49,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5teC4xLmh0bWw="
             }
         ],
-        "id": 2
+        "id": 1
     },
     {
         "datetime": "2026-09-03T23:00:00Z",
@@ -93,7 +77,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
             }
         ],
-        "id": 3
+        "id": 2
     },
     {
         "datetime": "2026-09-04T01:00:00Z",
@@ -127,6 +111,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo0"
             }
         ],
-        "id": 4
+        "id": 3
     }
 ]
