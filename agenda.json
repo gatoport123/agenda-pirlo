@@ -77,6 +77,12 @@
                 "channel": "ESPN7 Movil",
                 "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn7.11.html",
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG43LjExLmh0bWw="
+            },
+            {
+                "name": "Fox Sports 2",
+                "channel": "Fox Sports 2",
+                "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czI="
             }
         ],
         "id": 4
@@ -197,6 +203,22 @@
         "datetime": "2026-09-05T13:30:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/alemania_e50aa475de.png",
         "league": "Bundesliga",
+        "homeTeam": "Paderborn",
+        "awayTeam": "Freiburg",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw"
+            }
+        ],
+        "id": 9
+    },
+    {
+        "datetime": "2026-09-05T13:30:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/alemania_e50aa475de.png",
+        "league": "Bundesliga",
         "homeTeam": "Bayer Leverkusen",
         "awayTeam": "Union Berlin",
         "servers": [
@@ -207,6 +229,226 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
             }
         ],
-        "id": 9
+        "id": 10
+    },
+    {
+        "datetime": "2026-09-05T13:30:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/alemania_e50aa475de.png",
+        "league": "Bundesliga",
+        "homeTeam": "Werder Bremen",
+        "awayTeam": "RB Leipzig",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx"
+            }
+        ],
+        "id": 11
+    },
+    {
+        "datetime": "2026-09-05T14:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/alemania_e50aa475de.png",
+        "league": "Premier League",
+        "homeTeam": "Brentford",
+        "awayTeam": "Sunderland",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney13",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz"
+            }
+        ],
+        "id": 12
+    },
+    {
+        "datetime": "2026-09-05T14:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/inglaterra_823176495f.png",
+        "league": "Championship",
+        "homeTeam": "Burnley",
+        "awayTeam": "Bristol City",
+        "servers": [
+            {
+                "name": "ESPN7",
+                "channel": "ESPN7",
+                "url": "https://la18hd.su/vivo/canal.php?stream=espn7",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG43"
+            },
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney17",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE3"
+            },
+            {
+                "name": "ESPN7 Movil",
+                "channel": "ESPN7 Movil",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn7.11.html",
+                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG43LjExLmh0bWw="
+            },
+            {
+                "name": "Fox Sports 2",
+                "channel": "Fox Sports 2",
+                "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czI="
+            }
+        ],
+        "id": 13
+    },
+    {
+        "datetime": "2026-09-05T14:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/inglaterra_823176495f.png",
+        "league": "Championship",
+        "homeTeam": "West Ham United",
+        "awayTeam": "Derby County",
+        "servers": [
+            {
+                "name": "Paramount+",
+                "channel": "Paramount+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=paramount1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDE="
+            }
+        ],
+        "id": 14
+    },
+    {
+        "datetime": "2026-09-05T14:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/inglaterra_823176495f.png",
+        "league": "Championship",
+        "homeTeam": "West Bromwich Albion",
+        "awayTeam": "Watford",
+        "servers": [
+            {
+                "name": "Paramount+",
+                "channel": "Paramount+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=paramount2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDI="
+            }
+        ],
+        "id": 15
+    },
+    {
+        "datetime": "2026-09-05T14:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/inglaterra_823176495f.png",
+        "league": "Premier League",
+        "homeTeam": "Manchester City",
+        "awayTeam": "Coventry City",
+        "servers": [
+            {
+                "name": "ESPN",
+                "channel": "ESPN",
+                "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+            },
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEy"
+            },
+            {
+                "name": "ESPN Movil",
+                "channel": "ESPN Movil",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA=="
+            },
+            {
+                "name": "MAX",
+                "channel": "MAX",
+                "url": "https://la18hd.su/vivo/canal.php?stream=max2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1heDI="
+            },
+            {
+                "name": "Telemundo",
+                "channel": "Telemundo",
+                "url": "https://la18hd.su/vivo/canal.php?stream=telemundo",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRlbGVtdW5kbw=="
+            }
+        ],
+        "id": 16
+    },
+    {
+        "datetime": "2026-09-05T14:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/inglaterra_823176495f.png",
+        "league": "Premier League",
+        "homeTeam": "Fulham",
+        "awayTeam": "Crystal Palace",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney15",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE1"
+            }
+        ],
+        "id": 17
+    },
+    {
+        "datetime": "2026-09-05T14:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/inglaterra_823176495f.png",
+        "league": "Premier League",
+        "homeTeam": "Nottingham Forest",
+        "awayTeam": "Tottenham Hotspur",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney16",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE2"
+            }
+        ],
+        "id": 18
+    },
+    {
+        "datetime": "2026-09-05T14:15:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/espana_a8510f9b5f.png",
+        "league": "LaLiga",
+        "homeTeam": "Athletic Club",
+        "awayTeam": "Atlético Madrid",
+        "servers": [
+            {
+                "name": "ESPN3",
+                "channel": "ESPN3",
+                "url": "https://la18hd.su/vivo/canal.php?stream=espn3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4z"
+            },
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney18",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE4"
+            },
+            {
+                "name": "ESPN3 Movil",
+                "channel": "ESPN3 Movil",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn3tv.html",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4zdHYuaHRtbA=="
+            },
+            {
+                "name": "ESPN Deportes",
+                "channel": "ESPN Deportes",
+                "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+            }
+        ],
+        "id": 19
+    },
+    {
+        "datetime": "2026-09-05T18:30:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/inglaterra_823176495f.png",
+        "league": "Premier League",
+        "homeTeam": "Brighton &amp; Hove Albion",
+        "awayTeam": "Leeds United",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney14",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0"
+            }
+        ],
+        "id": 20
     }
 ]
