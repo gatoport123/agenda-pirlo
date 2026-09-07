@@ -180,5 +180,21 @@
             }
         ],
         "id": 8
+    },
+    {
+        "datetime": "2026-09-07T21:30:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/paraguay_fc9dd78de7.png",
+        "league": "Liga Paraguay",
+        "homeTeam": "Cerro Porteño",
+        "awayTeam": "Nacional Asunción",
+        "servers": [
+            {
+                "name": "Fanatiz02",
+                "channel": "Fanatiz02",
+                "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoy"
+            }
+        ],
+        "id": 9
     }
 ]
