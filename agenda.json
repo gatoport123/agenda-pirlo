@@ -135,16 +135,16 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fbXg="
             },
             {
-                "name": "Fox Sports 2",
-                "channel": "Fox Sports 2",
-                "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czI="
-            },
-            {
                 "name": "Universo",
                 "channel": "Universo",
                 "url": "https://la18hd.su/vivo/canal.php?stream=universo",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZlcnNv"
+            },
+            {
+                "name": "FOX Sports 2 USA",
+                "channel": "FOX Sports 2 USA",
+                "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
             }
         ],
         "id": 6
