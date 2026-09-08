@@ -1,55 +1,5 @@
 [
     {
-        "datetime": "2026-09-08T16:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/fifa_ee72f5c955.png",
-        "league": "Copa Mundial Femenina",
-        "homeTeam": "Inglaterra Sub-20",
-        "awayTeam": "Tanzania Sub-20",
-        "servers": [
-            {
-                "name": "Dsports 2",
-                "channel": "Dsports 2",
-                "url": "https://la18hd.su/vivo/canal.php?stream=dsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHMy"
-            },
-            {
-                "name": "Dsports 2 Movil",
-                "channel": "Dsports 2 Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsports2.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RzcG9ydHMyLmh0bWw="
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-09-08T16:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/fifa_ee72f5c955.png",
-        "league": "Copa Mundial Femenina",
-        "homeTeam": "Polonia Sub-20",
-        "awayTeam": "México Sub-20",
-        "servers": [
-            {
-                "name": "TUDN MX",
-                "channel": "TUDN MX",
-                "url": "https://la18hd.su/vivo/canal.php?stream=tudn_mx",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fbXg="
-            },
-            {
-                "name": "Universo",
-                "channel": "Universo",
-                "url": "https://la18hd.su/vivo/canal.php?stream=universo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZlcnNv"
-            },
-            {
-                "name": "FOX Sports 2 USA",
-                "channel": "FOX Sports 2 USA",
-                "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
-            }
-        ],
-        "id": 2
-    },
-    {
         "datetime": "2026-09-08T16:45:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/UEFA_Champions_L_e95eab40e4.png",
         "league": "UEFA Champions League",
@@ -87,7 +37,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDI="
             }
         ],
-        "id": 3
+        "id": 1
     },
     {
         "datetime": "2026-09-08T16:45:00Z",
@@ -121,7 +71,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDE="
             }
         ],
-        "id": 4
+        "id": 2
     },
     {
         "datetime": "2026-09-08T18:45:00Z",
@@ -137,7 +87,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
             }
         ],
-        "id": 5
+        "id": 3
     },
     {
         "datetime": "2026-09-08T18:45:00Z",
@@ -153,7 +103,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
             }
         ],
-        "id": 6
+        "id": 4
     },
     {
         "datetime": "2026-09-08T18:45:00Z",
@@ -169,7 +119,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
             }
         ],
-        "id": 7
+        "id": 5
     },
     {
         "datetime": "2026-09-08T19:00:00Z",
@@ -221,7 +171,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1heDE="
             }
         ],
-        "id": 8
+        "id": 6
     },
     {
         "datetime": "2026-09-08T19:00:00Z",
@@ -255,7 +205,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
             }
         ],
-        "id": 9
+        "id": 7
     },
     {
         "datetime": "2026-09-08T19:00:00Z",
@@ -283,7 +233,7 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG40dHYuaHRtbA=="
             }
         ],
-        "id": 10
+        "id": 8
     },
     {
         "datetime": "2026-09-08T19:00:00Z",
@@ -299,7 +249,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEy"
             }
         ],
-        "id": 11
+        "id": 9
     },
     {
         "datetime": "2026-09-08T19:00:00Z",
@@ -315,7 +265,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz"
             }
         ],
-        "id": 12
+        "id": 10
     },
     {
         "datetime": "2026-09-08T19:00:00Z",
@@ -343,7 +293,7 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2VzcG42dHYuaHRtbA=="
             }
         ],
-        "id": 13
+        "id": 11
     },
     {
         "datetime": "2026-09-08T22:00:00Z",
@@ -383,6 +333,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWJlaW5zcG9ydGVz"
             }
         ],
-        "id": 14
+        "id": 12
     }
 ]
